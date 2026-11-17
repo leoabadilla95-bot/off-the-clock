@@ -39,25 +39,39 @@ def call(url, body=None):
                                           "Content-Type": "application/json", "User-Agent": "off-the-clock-previs/1.0"})
     return json.load(urllib.request.urlopen(req, timeout=120))
 
+TASKS = os.path.join(OUT, "tasks.json")  # cut -> Runway task id, saved the moment a job is submitted
+
+def _tasks():
+    return json.load(open(TASKS)) if os.path.exists(TASKS) else {}
+
 def one(j):
+    """Submit (or resume) one cut and wait for it without ever abandoning it: a charged job is always collected."""
     num, p, secs, prompt = j
     out = os.path.join(OUT, f"cut_{num}.mp4")
     if os.path.exists(out):
         return f"skip {num}"
-    img = "data:image/jpeg;base64," + base64.b64encode(open(p, "rb").read()).decode()
+    tasks = _tasks()
     try:
-        task = call(f"{API}/image_to_video", {"model": "gen4_turbo", "promptImage": img, "promptText": prompt,
-                                              "ratio": "720:1280", "duration": secs})
+        tid = tasks.get(num)
+        if tid:  # resume a job submitted by an earlier run
+            g = call(f"{API}/tasks/{tid}")
+            if g["status"] in ("FAILED", "CANCELLED"):
+                tid = None
+        if not tid:
+            img = "data:image/jpeg;base64," + base64.b64encode(open(p, "rb").read()).decode()
+            tid = call(f"{API}/image_to_video", {"model": "gen4_turbo", "promptImage": img, "promptText": prompt,
+                                                 "ratio": "720:1280", "duration": secs})["id"]
+            tasks[num] = tid
+            json.dump(tasks, open(TASKS, "w"), indent=1)
         t0 = time.time()
-        while time.time() - t0 < 900:
-            time.sleep(8)
-            g = call(f"{API}/tasks/{task['id']}")
+        while True:  # no timeout: Runway queues jobs when the account is busy, and a queued job is still billed
+            g = call(f"{API}/tasks/{tid}")
             if g["status"] == "SUCCEEDED":
                 urllib.request.urlretrieve(g["output"][0], out)
                 return f"ok {num} {secs}s in {int(time.time() - t0)}s"
             if g["status"] in ("FAILED", "CANCELLED"):
                 return f"fail {num}: {g.get('failure') or g.get('failureCode')}"
-        return f"timeout {num}"
+            time.sleep(10)
     except urllib.error.HTTPError as e:
         return f"fail {num}: {e.code} {e.read()[:200]}"
 
@@ -66,11 +80,13 @@ if __name__ == "__main__":  # importing this module (for picture()) must never s
     for r in rows:
         if only and r[0] not in only:
             continue
+        if r[0] in os.environ.get("STILLS", "").split(","):  # budget: these stay stills with a push-in
+            continue
         p = picture(r)
         if not p:
             continue
         need = math.ceil(timing.get(r[0], float(r[3])))
-        secs = 5 if need <= 5 else 10  # Gen-4 Turbo makes 5 s or 10 s clips; the edit trims to the cut
+        secs = 5 if need <= 5 or os.environ.get("FIVE") else 10  # Gen-4 Turbo makes 5 s or 10 s clips; the edit trims or holds
         picture_text = re.sub(r"\*([^*]+)\*", r"\1", r[4])
         prompt = re.sub(r"\s+", " ", f"{picture_text.split('. On screen')[0]}. Subtle, natural motion.")[:220]  # Runway rejected long prompts
         jobs.append((r[0], p, secs, prompt))
@@ -80,6 +96,5 @@ if __name__ == "__main__":  # importing this module (for picture()) must never s
     if os.environ.get("DRY"):
         sys.exit()
 
-    with ThreadPoolExecutor(3) as ex:
-        for res in ex.map(one, jobs):
-            print(res, flush=True)
+    for jb in jobs:  # one at a time: the account runs one job at a time, and parallel jobs only queue
+        print(one(jb), flush=True)

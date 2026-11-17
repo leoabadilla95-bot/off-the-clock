@@ -58,13 +58,19 @@ Needs API credit on the developer account (dev.runwayml.com → Billing), separa
 
 ```bash
 DRY=1 python runway_v2.py 1    # shows clip count and credit cost; spends nothing
-python runway_v2.py 1          # renders every missing clip, 3 at a time; re-run to retry failures
+python runway_v2.py 1          # renders every missing clip, one at a time; safe to stop and re-run
 python assemble_runway.py 1
 ```
 
-Known behavior: Gen-4 Turbo only accepts 5 s or 10 s clips, and the API has rejected long prompts with "An unexpected
-error occurred", so the script sends short prompts. Failed requests cost nothing. The account runs a few jobs at a time,
-so a full episode takes a while.
+Budget options: `FIVE=1` makes every clip 5 s (longer cuts hold the last frame), and `STILLS=5,7,11` keeps those
+cuts as stills with a slow push-in. Episode 1 was made with `FIVE=1 STILLS=5,7,11,12,20` (about 675 credits in total).
+
+Known behavior, learned the hard way:
+- Gen-4 Turbo only accepts 5 s or 10 s clips, and the API rejected long prompts with "An unexpected error occurred",
+  so the script sends short prompts. Failed requests cost nothing.
+- The developer account runs one job at a time; extra jobs wait as THROTTLED and are still billed when they run.
+  The script submits one clip at a time, saves every task id to `video/epNN_runway_v2/tasks.json` the moment it is
+  sent, and never gives up on a job, so a re-run collects paid clips instead of paying again.
 
 ## Lip-sync (not done yet)
 
