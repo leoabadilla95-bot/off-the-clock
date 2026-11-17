@@ -9,7 +9,10 @@ D = os.path.dirname(os.path.abspath(__file__))
 FF = imageio_ffmpeg.get_ffmpeg_exe()
 ep = int(sys.argv[1])
 rows = json.load(open(os.path.join(D, "tables_v2.json"), encoding="utf-8"))[str(ep)]
-timing = dict((c, s) for c, s in json.load(open(os.path.join(D, "audio_v2", f"ep{ep:02d}_timing.json"))))
+_tf = os.path.join(D, "audio_v2", f"ep{ep:02d}_timing.json")
+if not os.path.exists(_tf):  # fresh clone: the kit carries the timing
+    _tf = os.path.join(D, "runway_kit", f"ep{ep:02d}", "timing.json")
+timing = dict((c, s) for c, s in json.load(open(_tf)))
 CLIPS = os.path.join(D, "video", f"ep{ep:02d}_runway_v2")
 TMP = os.path.join(CLIPS, "cuts"); os.makedirs(TMP, exist_ok=True)
 V = "scale=720:1280:force_original_aspect_ratio=increase,crop=720:1280,setsar=1,fps=24,format=yuv420p"
@@ -53,6 +56,8 @@ open(os.path.join(TMP, "subs.srt"), "w", encoding="utf-8").write(srt)
 style = "FontName=Segoe UI,FontSize=12,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H90000000,BorderStyle=1,Outline=1.5,Shadow=0,MarginV=70"
 final = os.path.join(D, "video", f"off-the-clock-ep{ep:02d}-runway.mp4")
 mix = os.path.join(D, "audio_v2", f"ep{ep:02d}_mix_v3.wav")
+if not os.path.exists(mix):  # fresh clone: the kit's soundtrack
+    mix = os.path.join(D, "runway_kit", f"ep{ep:02d}", "soundtrack.m4a")
 os.chdir(TMP)
 run(["-i", joined, "-i", mix, "-map", "0:v", "-map", "1:a", "-vf", f"subtitles=subs.srt:force_style='{style}'",
      "-c:v", "libx264", "-crf", "21", "-preset", "medium", "-c:a", "aac", "-b:a", "192k",

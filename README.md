@@ -21,7 +21,7 @@ repo holds the files and the pipeline that build the episodes from it.
 | Path | What it is |
 | --- | --- |
 | `deliverables/` | Episodes 1–3 as finished previs videos (v2 scripts, voices, sound design, captions burned in) and their `.srt` caption files |
-| `runway_kit/` | Per-episode Runway shot sheets (`SHOT_SHEET.md`) and start images named by cut, for Episodes 1–3 |
+| `runway_kit/` | Everything to make Episodes 1–3 on Runway: shot sheets, start images, per-clip voice files for lip-sync, the finished soundtracks and cut timings |
 | `EPISODES_1-3.md` | Step-by-step instructions to take Episodes 1–3 from previs to Runway motion and lip-sync |
 | `scripts_v2/` | The v2 scripts for all 10 episodes, plus `SPINE_AND_BRIEF.md` (season engine, monologue and dialogue rules) |
 | `audio_plan/` | Shot-by-shot sound design for Episodes 1–3 (`BRIEF.md` is the sound-designer brief) |

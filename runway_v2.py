@@ -9,7 +9,10 @@ D = os.path.dirname(os.path.abspath(__file__))
 IMG = os.path.join(D, "img")
 ep = int(sys.argv[1]); only = set(sys.argv[2:])
 rows = json.load(open(os.path.join(D, "tables_v2.json"), encoding="utf-8"))[str(ep)]
-timing = dict((c, s) for c, s in json.load(open(os.path.join(D, "audio_v2", f"ep{ep:02d}_timing.json"))))
+_tf = os.path.join(D, "audio_v2", f"ep{ep:02d}_timing.json")
+if not os.path.exists(_tf):  # fresh clone: the kit carries the timing
+    _tf = os.path.join(D, "runway_kit", f"ep{ep:02d}", "timing.json")
+timing = dict((c, s) for c, s in json.load(open(_tf)))
 OUT = os.path.join(D, "video", f"ep{ep:02d}_runway_v2"); os.makedirs(OUT, exist_ok=True)
 API = "https://api.dev.runwayml.com/v1"
 sys.argv = [sys.argv[0], str(ep)]

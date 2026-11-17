@@ -6,7 +6,12 @@ from concurrent.futures import ThreadPoolExecutor
 sys.stdout.reconfigure(encoding="utf-8")
 D = os.path.dirname(os.path.abspath(__file__))
 IMG = os.path.join(D, "img")
-KEY = os.environ.get("AGNES_API_KEY") or winreg.QueryValueEx(winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment"), "AGNES_API_KEY")[0]
+def _key():
+    try:
+        return os.environ.get("AGNES_API_KEY") or winreg.QueryValueEx(winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment"), "AGNES_API_KEY")[0]
+    except OSError:
+        return ""  # only needed when generating
+KEY = _key()
 URL = "https://apihub.agnes-ai.com/v1/images/generations"
 MODEL = "agnes-image-2.5-flash"
 # A phrase from each lead's locked descriptor -> that lead's reference sheet
