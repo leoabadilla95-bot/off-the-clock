@@ -1,0 +1,23 @@
+# Regenerable or heavy media (rebuild with the scripts; see README)
+img/raw/
+img/done/
+anim/
+anim_v2/
+video/
+audio/
+audio_v2/
+*.pcm
+*.wav
+*.mp4
+!deliverables/*.mp4
+# Tooling and run logs
+krea/node_modules/
+__pycache__/
+*.log
+*.part
+scripts_v2/_doc_tab.md
+audio_plan/_doc_tab.md
+captions_v2/_doc_tab.md
+# Never commit keys (the scripts read them from Windows user environment variables)
+.env
+*.key

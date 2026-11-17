@@ -1,0 +1,295 @@
+
+# Episode 1 production pack: "Hunter from Ops"
+Everything needed to make the 80-second pitch episode, shot by shot. Work top to bottom: lock the references, generate every keyframe and get it approved, then animate, record voices, and assemble. Wherever a prompt says [HUNTER], [ABBY] or [PRIYA], paste that character's locked descriptor in full (Step 1). Never paraphrase it.
+## Step 1: Lock the references
+Make these 10 images first, in Midjourney, Flux or GPT Image. Every shot below reuses them, so approve them before anything else.
+### Characters
+Reference
+ | What to generate
+ | Locked descriptor (paste verbatim)
+ | 
+[HUNTER]
+ | Sheet: front, 3/4, profile, full body. Expressions: guarded neutral, startled, small real smile
+ | A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture
+ | 
+[ABBY]
+ | Same sheet. Expressions: teasing grin, focused, delighted
+ | A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture
+ | 
+[PRIYA]
+ | Front and 3/4, plus one "rushing" expression
+ | A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, slightly out of breath, natural skin texture
+ | 
+Sheet prompt pattern: "Character reference sheet, [DESCRIPTOR], front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic."
+### Locations (empty plates, no people)
+Reference
+ | Prompt
+ | 
+Lumen lobby
+ | Modern tech company lobby, double-height glass atrium, polished concrete floor, moss wall, badge turnstiles, a framed founder photo deliberately blurry and taken from behind, cool blue morning daylight, sterile, vertical 9:16, cinematic
+ | 
+4th floor open plan
+ | Open-plan tech office, rows of white desks, dual monitors, fluorescent lighting, cool palette, one desk with a mustard-yellow mug and a postcard of Lisbon, one bare borrowed desk beside it, vertical 9:16, cinematic
+ | 
+Kitchenette
+ | Small office kitchenette, white counter, coffee machine, fruit bowl, window with afternoon light, cool palette with one warm patch of sun, vertical 9:16, cinematic
+ | 
+Elevator bank
+ | 4th-floor elevator bank in a tech office, brushed-steel doors, glass wall, cool light, vertical 9:16, cinematic
+ | 
+### Props and screens
+Phone plate: Abby's phone in a mustard-yellow case, screen showing flat green (#00FF00) for compositing. Generate it held in a hand, in two angles: POV from above, and turned toward camera.
+Badge reader: a wall-mounted badge reader with a small blank screen and a green light, for the shot 3 text composite.
+Mock Groupon screens: build them in Figma (Step 4) before animating shots 10, 11, 13 and 14.
+## Step 2: Shot by shot
+For each shot: generate the keyframe (a still, using the character reference images), get it approved, then animate it with the video prompt for 5–8 seconds and trim to the length shown. Lines are recorded separately in ElevenLabs (Step 3) and lip-synced. All shots are vertical 9:16.
+### Shot 1 · 0:00 · ECU · 3s · Lobby
+Keyframe: Extreme close-up of a man's left hand and wrist, his thumb resting on a plain steel wristwatch, navy quarter-zip cuff, cool blue morning light from a glass atrium behind, shallow depth of field, 85mm lens, vertical 9:16, photorealistic.
+Video (Kling): The thumb slowly twists the watch a quarter turn and back, a nervous habit. Static camera. Subtle breathing movement in the wrist.
+Audio: low ambient drone.
+Post: on-screen text in the top third: He owns the building.
+### Shot 2 · 0:03 · WS, locked-off · 3s · Lobby
+Keyframe: Wide shot, [HUNTER] walking alone through a double-height glass lobby with a moss wall, small in frame, head down, passing a large framed photo that is blurry and taken from behind. Perfectly symmetrical composition, cool daylight, vertical 9:16, cinematic. (Use the lobby plate as a reference image.)
+Video (Veo 3.1): He walks steadily past the framed photo without looking at it, eyes on the floor. Locked-off tripod camera.
+Audio: footsteps echoing on concrete, drone continues.
+Post: text: Nobody here knows his face.
+### Shot 3 · 0:06 · INS · 2s · Lobby
+Keyframe: the badge-reader plate.
+Video (Runway): A hand taps a white ID badge against the reader; the light flips from red to green.
+Audio: soft beep.
+Post: composite the reader's screen text: HUNTER C — OPS (TEMP).
+### Shot 4 · 0:08 · MS · 2s · 4th floor
+Keyframe: Medium shot, [HUNTER] sitting at a bare desk in an open-plan tech office, half-unwrapped protein bar in hand, fluorescent light, cool palette. An empty office chair at the right edge of frame. Vertical 9:16. (Reference: the 4th-floor plate.)
+Video (Kling): An office chair rolls into frame from the right and bumps his desk. He looks up, startled, still holding the bar. Static camera.
+Audio: chair-wheel rattle, a soft thunk. Playful plucked strings start on the bump.
+### Shot 5 · 0:10 · MCU + cutaway · 7s (5a 5s on Abby, 5b 2s on Hunter) · 4th floor
+Keyframe: Medium close-up of [ABBY] leaning back in a rolled-over office chair, holding a mustard-yellow mug, squinting with amused suspicion, looking slightly screen-right, eye level, 50mm, open-plan office softly blurred behind, vertical 9:16.
+Video (Veo 3.1, with Abby's hero, 3/4 and wardrobe images as ingredients): She speaks to someone just off camera, eyebrows up, teasing, small head tilt at the end. Static camera.
+Line (ABBY): "Okay, I have to ask. Is that the same protein bar? Like, same flavor, three days?"
+### Shot 6 · 0:17 · OTS + reverse · 6s (6a 2s on Hunter, 6b 4s on Abby) · 4th floor
+Keyframe: Over-the-shoulder shot from behind [ABBY] (the back of her mustard beanie and hoop earring soft in the foreground), focused on [HUNTER] mid-chew, slightly defensive, looking screen-left, vertical 9:16.
+Video (Veo 3.1): He swallows and answers with a half-shrug; she shakes her head slightly in the foreground.
+Lines: HUNTER: "It's got… everything you need." ABBY (off camera): "It's chalk. You're eating chalk in a wrapper."
+### Shot 7 · 0:23 · INS · 3s · 4th floor
+Keyframe: Top-down insert of a white desk: a woman's hand with a gold ring slides half a torta wrapped in paper toward a half-eaten protein bar, mustard-yellow mug at the edge, vertical 9:16.
+Video (Kling): The hand slides the torta across the desk and lets go.
+Line (ABBY, off camera): "Here. My tía always makes too much."
+### Shot 8 · 0:26 · MS, then shot/reverse · 13s (8a 3s two-shot, 8b 4s Hunter, 8c 4s Abby, 8d 2s Abby) · Kitchenette
+Keyframe: Medium two-shot in a small office kitchenette, [ABBY] in the foreground left leaning on the counter eating, [HUNTER] deeper right holding the torta awkwardly, staggered on a diagonal, afternoon sun on the counter, vertical 9:16.
+Video (Veo 3.1): A casual back-and-forth while eating. She grows more amused with each answer; he gets more uncomfortable and looks at the torta instead of her.
+Lines: ABBY: "So what'd you do this weekend?" HUNTER: "Um. Caught up on some stuff." ABBY: "Work stuff?" HUNTER: "…Yeah." ABBY: "And the weekend before?" HUNTER: "You're doing a thing." ABBY: "I'm totally doing a thing."
+Note: the exchange is cut as 8a–8d (see the script table for which line lands in which cut). Generate the two-shot plus one single each of Hunter and Abby, so lip-sync only ever handles one face.
+### Shot 9 · 0:39 · slow push-in · 7s (9a 5s, 9b 2s holding on Hunter) · Kitchenette
+Keyframe: Medium close-up of [HUNTER] holding the torta, caught off guard, looking slightly screen-left, sun on one side of his face, vertical 9:16.
+Video (Runway): A slow dolly push-in toward his face over 5 seconds while he searches for an answer. Cut in a 1s ECU of the watch twist (reuse shot 1).
+Lines: ABBY (off camera): "When's the last time you did something you'd never done before?" (pause) HUNTER: "…Define 'something.'" ABBY: "Oh no."
+Audio: the strings drop out under the question.
+### Shot 10 · 0:46 · POV · 2s · Kitchenette
+Keyframe: the phone plate, POV angle (green screen).
+Video (Kling): POV looking down at a phone in a hand with a mustard-yellow case, the thumb scrolling slowly, then stopping.
+Post: composite the Groupon home feed (Step 4, screen A) scrolling under the thumb, and stop on the axe-throwing card.
+Audio: soft scroll ticks.
+### Shot 11 · 0:48 · INS · 2s · Kitchenette
+Build: a full-screen composite of the deal card (Step 4, screen B), with a slight push-in in the edit. No generation needed.
+On screen: Axe Throwing for Two — $39 with $70 struck through · West Loop · First-timers welcome.
+### Shot 12 · 0:50 · MCU, shot/reverse · 10s (12a 3s Abby, 12b 4s Hunter, 12c 3s Abby) · Kitchenette
+Keyframe: Medium close-up of [ABBY] turning her phone (green screen) toward camera with a confident grin, kitchenette behind, vertical 9:16. A second keyframe: [HUNTER] in medium close-up, cornered, half-smiling despite himself.
+Video (Veo 3.1): two 3s singles, cut together.
+Lines: ABBY: "Friday. My treat. It's a Groupon, relax." HUNTER: "I'm not really a… I don't really do stuff." ABBY: "Yeah. I got that from the chalk."
+Post: composite the deal card onto her phone screen.
+### Shot 13 · 1:00 · INS · 2s · Kitchenette
+Keyframe: the phone plate, POV angle, with Abby's thumb hovering.
+Video (Kling): The thumb taps once in the lower middle of the screen.
+Post: composite screen C (the Buy tap animating into the voucher).
+Audio: the deal "ding," the series' audio logo. Use the same sound every time.
+### Shot 14 · 1:02 · handheld · 9s · 4th floor, late
+Keyframe: [HUNTER] alone at the bare desk late in the day, office mostly empty, golden light through the blinds striping the desk, looking down at his phone, vertical 9:16.
+Video (Kling, the longest take in the episode): Handheld, gently drifting. He reads something on his phone twice, and a small, real smile breaks through for the first time. He sets the phone face up instead of face down.
+Post: composite screen D (the voucher Abby shared) on his phone, then the text bubble from ABBY: bring ur chalk.
+Audio: the strings return, warmer. A text buzz.
+### Shot 15 · 1:11 · WS, locked-off · 3s · Elevator bank
+Keyframe: Wide symmetrical shot of brushed-steel elevator doors on a tech-office floor, cool light, [PRIYA] visible through the opening doors holding a tablet, vertical 9:16. (Reference: the elevator plate.)
+Video (Veo 3.1): The doors slide open; she hurries out, scanning the room.
+Audio: the elevator chime, then the strings stop dead.
+### Shot 16 · 1:14 · MS · 2s · 4th floor
+Keyframe: Medium shot of [PRIYA] mid-stride between desks, relieved, pointing with the tablet, about to call out, vertical 9:16.
+Video (Veo 3.1): She spots someone, exhales with relief and calls across the floor, cut off mid-word.
+Line (PRIYA): "There you are. Mr. Co—" Cut on the hard "Co."
+### Shot 17 · 1:16 · CU, push-in · 4s · 4th floor
+Keyframe: Close-up of [HUNTER], eyes wide, frozen; [ABBY] soft and out of focus in the background at the next desk, starting to turn, vertical 9:16.
+Video (Runway): A slow push-in on his face while the focus racks to Abby turning around.
+Post: hold 0.5s of silence, a 3-frame freeze with a desaturation flash, then a cut to black and the card Episode 1 of 10.
+## Step 3: Voices
+Create three voices once in ElevenLabs Voice Design, save them, and reuse the same voice IDs for the whole season.
+Voice
+ | Voice Design description
+ | 
+Hunter
+ | Male, early 30s, American Midwest, low and soft, careful and a little tired, short sentences, warm underneath, speeds up slightly when nervous
+ | 
+Abby
+ | Female, late 20s, Mexican-American from Chicago, bright and quick, teasing, warm, natural light Chicago accent, laughs easily
+ | 
+Priya
+ | Female, mid-30s, American, crisp and fast, efficient, slightly out of breath
+ | 
+Settings to start from (tune by ear): stability around 40–50% so lines don't sound flat, similarity around 75%, style low. Record one line per generation, make 3–4 takes of each, and keep the best. If your model supports audio tags such as [laughs] or [sighs], use them for the delivery notes below; otherwise steer with punctuation.
+### Every line, in order
+#
+ | Shot
+ | Who
+ | Line
+ | Delivery
+ | 
+1
+ | 5
+ | Abby
+ | "Okay, I have to ask. Is that the same protein bar? Like, same flavor, three days?"
+ | Teasing, quick, genuinely curious
+ | 
+2
+ | 6
+ | Hunter
+ | "It's got… everything you need."
+ | Defensive, mouth half full
+ | 
+3
+ | 6
+ | Abby
+ | "It's chalk. You're eating chalk in a wrapper."
+ | Deadpan
+ | 
+4
+ | 7
+ | Abby
+ | "Here. My tía always makes too much."
+ | Warm, offhand
+ | 
+5
+ | 8
+ | Abby
+ | "So what'd you do this weekend?"
+ | Casual, chewing
+ | 
+6
+ | 8
+ | Hunter
+ | "Um. Caught up on some stuff."
+ | Vague
+ | 
+7
+ | 8
+ | Abby
+ | "Work stuff?"
+ | Knowing
+ | 
+8
+ | 8
+ | Hunter
+ | "…Yeah."
+ | Caught
+ | 
+9
+ | 8
+ | Abby
+ | "And the weekend before?"
+ | Pressing, smiling
+ | 
+10
+ | 8
+ | Hunter
+ | "You're doing a thing."
+ | Dry, half laughing
+ | 
+11
+ | 8
+ | Abby
+ | "I'm totally doing a thing."
+ | Delighted
+ | 
+12
+ | 9
+ | Abby
+ | "When's the last time you did something you'd never done before?"
+ | Slower, sincere
+ | 
+13
+ | 9
+ | Hunter
+ | "…Define 'something.'"
+ | After a real pause, honest
+ | 
+14
+ | 9
+ | Abby
+ | "Oh no."
+ | A laugh in it
+ | 
+15
+ | 12
+ | Abby
+ | "Friday. My treat. It's a Groupon, relax."
+ | Confident, final
+ | 
+16
+ | 12
+ | Hunter
+ | "I'm not really a… I don't really do stuff."
+ | Fumbling, starts twice
+ | 
+17
+ | 12
+ | Abby
+ | "Yeah. I got that from the chalk."
+ | Teasing callback
+ | 
+18
+ | 16
+ | Priya
+ | "There you are. Mr. Co—"
+ | Relieved, loud across the room; cut hard on "Co"
+ | 
+## Step 4: Mock Groupon screens
+Build four screens in Figma at 1080×1920 and export them as PNGs for compositing. Keep them Groupon-style (a bright green accent, white cards, rounded corners) but use a generic wordmark instead of the real logo. Every business and price is made up.
+Screen
+ | Used in
+ | What's on it
+ | 
+A. Home feed
+ | Shot 10
+ | Header Things to do near you · Chicago. Four cards, each with a photo, name, neighborhood, star rating and price with the regular price struck through: Axe Throwing for Two $39 ($70) · Rooftop Mini Golf $18 ($30) · Sushi Dinner for Two $35 ($60) · Candle-Making Class $29 ($55). Export it as one tall image so it can scroll
+ | 
+B. Deal card
+ | Shots 11, 12
+ | Bullseye Axe House · West Loop, a photo of a wooden target, Axe Throwing for Two — $39, $70, First-timers welcome, 4.8 stars, a big green Buy button
+ | 
+C. Purchase
+ | Shot 13
+ | The Buy button pressed, then a short check-mark animation and a voucher with a QR code and Fri · 7:00 PM · 2 people
+ | 
+D. Shared voucher + text
+ | Shot 14
+ | A messages screen: the voucher shared as a card from Abby, then her text bubble below it: bring ur chalk
+ | 
+Also make one text overlay for shot 3: HUNTER C — OPS (TEMP) in a plain sans-serif, white on dark, sized for the badge reader's screen.
+## Step 5: Assembly and checks
+Cut in CapCut or DaVinci Resolve on a 1080×1920 timeline. The 17 shots are cut into 25 pieces that add up to exactly 80 seconds.
+Lay picture. Place the shots in order and trim each cut to its length, in order (1, 2, 3, 4, 5a, 5b, 6a, 6b, 7, 8a–8d, 9a, 9b, 10, 11, 12a–12c, 13–17): 3 · 3 · 2 · 2 · 5 · 2 · 2 · 4 · 3 · 3 · 4 · 4 · 2 · 5 · 2 · 2 · 2 · 3 · 4 · 3 · 2 · 9 · 3 · 2 · 4.
+Composite. Add screens A–D onto the green phone screens, plus the badge text in shot 3.
+Lip-sync and place lines. Sync lines 1–18 from Step 3. Leave a beat of silence before "Define 'something'" and before Priya's line.
+Grade. Lobby and office get the cool "Glass" look. Shot 14's golden light is the one warm moment, and it should feel like a reward.
+Music and sound.
+Drone under shots 1–3.
+Plucked strings start on the chair bump (shot 4), drop out under the question (shot 9), return warmer in shot 14, and stop dead at the elevator (shot 15).
+Use the deal "ding" in shot 13 only.
+Add office room tone under everything.
+Text and captions. Put the two opening lines in the top third (shots 1–2), burn in word-by-word captions above the bottom 20%, and add the end card Episode 1 of 10.
+Export. H.264, 1080×1920, 30 fps.
+### Final checks before Groupon sees it
+Hunter, Abby and Priya match their reference sheets in every shot
+Hunter wears the navy quarter-zip and the watch in every shot he's in
+Abby's beanie, hoops and claw clip are there in every shot she's in
+No garbled text, real logos or extra fingers anywhere
+Every phone screen is legible for at least 1.5 seconds
+The captions match the audio word for word
+Total runtime is 1:20, and the episode ends on a hard cut after "Mr. Co—"

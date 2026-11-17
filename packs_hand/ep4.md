@@ -1,0 +1,271 @@
+# Episode 4 production pack: "Camera Off"
+
+Everything needed to make the 85-second fourth episode, 23 shots cut into 28 pieces. Work top to bottom: lock the references, generate every keyframe and get it approved, then animate, record voices, and assemble. Wherever a prompt says **[HUNTER]**, **[ABBY]**, **[PRIYA]** or **[GRANT]**, paste that character's locked descriptor in full (Step 1). Never paraphrase it.
+
+## Step 1: Lock the references
+
+Hunter, Abby and Priya reuse their Episode 1 sheets. Grant is new: make his sheet before any office shot. Reuse the 4th-floor and elevator-bank plates from Episode 1, and generate the two new plates below.
+
+### Characters
+
+| Reference | What to generate | Locked descriptor (paste verbatim) |
+| --- | --- | --- |
+| [HUNTER] | Same sheet as Episode 1. No wardrobe change: navy quarter-zip, white tee, steel watch on the left wrist in every shot | A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture |
+| [ABBY] | Same sheet as Episode 1. At Masa Mía add a flour-dusted canvas apron over the cardigan; beanie, hoops and claw clip stay | A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture |
+| [PRIYA] | Same sheet as Episode 1, plus a webcam-framed front view (chest up, ring-light catchlights) for the all-hands screen | A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture |
+| [GRANT] | New sheet: front, 3/4, profile, full body. Expressions: polished neutral, thin public smile, the cold smile that doesn't reach his eyes | A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture |
+
+Sheet prompt pattern: *"Character reference sheet, [DESCRIPTOR], front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic."*
+
+### Locations (empty plates, no people)
+
+| Reference | Prompt |
+| --- | --- |
+| Masa Mía kitchen | Small community cooking-class kitchen, cobalt and white Talavera tile backsplash, strings of pink, orange and green papel picado across the ceiling, a long steel prep table with bowls of masa, stacks of soaked corn husks and a steaming tamalera pot, warm tungsten pendant bulbs, golden late-afternoon light through a side window, steam in the air, vertical 9:16, cinematic |
+| Penthouse at night | Vast minimalist penthouse kitchen at night, gray stone floor, a long white marble island with nothing on it, floor-to-ceiling windows onto a cold blue city skyline, a single cool overhead strip light, huge and silent, vertical 9:16, cinematic |
+| 4th floor, all-hands | The Episode 1 4th-floor plate, plus a large wall-mounted screen at the end of the room (green screen for compositing), rows of white desks with dual monitors, flat fluorescent light, steel-blue palette, Abby's desk with the mustard-yellow mug and Lisbon postcard beside Hunter's bare desk, vertical 9:16, cinematic |
+| Elevator bank | Reuse the Episode 1 elevator plate: brushed-steel doors, glass wall, cool light |
+
+### Props and screens
+
+- **Cookware set (hero prop payoff):** a boxed, still-shrink-wrapped stainless cookware set on the marble island, price sticker still on, a pile of dry corn husks and a lumpy bowl of masa beside it.
+- **Hunter's phone plate:** a phone in a plain black case, screen flat green (#00FF00), held in a man's hand with the steel watch visible, at a slight angle toward camera.
+- **All-hands screen:** build the video-call grid in Figma (Step 4, screen B) and composite it onto the green wall screen in shots 7 and 9.
+- **Sticky note:** a square yellow sticky note and a black fine-point marker. Shoot it blank; composite Abby's handwriting (Step 4, insert C) so the words stay legible.
+- **Hunter's pen:** a cheap blue ballpoint, for shot 18.
+
+## Step 2: Shot by shot
+
+For each shot: generate the **keyframe** (a still, using the character reference images), get it approved, then animate it with the **video** prompt for 5–8 seconds and trim to the length shown. Lines are recorded separately in ElevenLabs (Step 3) and lip-synced. All shots are vertical 9:16.
+
+### Shot 1 · 0:00 · CU · 3s · Masa Mía
+
+- **Keyframe:** *Close-up of [ABBY] in a flour-dusted apron at a steel prep table, a half-folded tamale in her hands, eyebrows raised, head tilted, looking slightly screen-right at someone off camera, papel picado soft and colorful behind her, warm tungsten light and rising steam, 50mm, shallow depth of field, vertical 9:16.* (Reference: the Masa Mía plate.)
+- **Video (Veo 3.1):** *She stops folding mid-motion and asks the question slowly, suspicious but amused, a small squint on "Mr. Cole." Steam drifts across frame. Static camera.*
+- **Line (ABBY):** "…Who's Mr. Cole?"
+- **Audio:** kitchen bustle, a pot lid rattling, warm low chatter in Spanish in the background.
+
+### Shot 2 · 0:03 · MCU + cutaway · 8s (2a 5s Hunter, 2b 3s Abby) · Masa Mía
+
+- **Keyframe 2a:** *Medium close-up of [HUNTER] at the prep table, masa on his fingers, phone still in his other hand, eyes darting, caught, looking screen-left, warm tungsten light, steam and papel picado behind, vertical 9:16.*
+- **Keyframe 2b:** *Close-up of [ABBY], listening, lips pressed together to hold back a smile, one eyebrow climbing, warm light, vertical 9:16.*
+- **Video (Veo 3.1):** *2a: he talks too fast, restarting the sentence twice, a nervous little laugh, glancing down at the phone. 2b: she just watches him, slowly nodding, not buying it but enjoying it. Static camera.*
+- **Line (HUNTER, 2a):** "My dad. It's— we have a joint— it's my dad's card."
+- **Line (HUNTER, off camera over 2b):** "He's… a lot."
+
+### Shot 3 · 0:11 · ECU · 2s · Masa Mía
+
+- **Keyframe:** *Extreme close-up of [HUNTER]'s left wrist and the plain steel wristwatch, masa smudged on his thumb, navy quarter-zip cuff, warm tungsten bokeh behind, 85mm, vertical 9:16.*
+- **Video (Kling):** *The thumb twists the watch a quarter turn and back, leaving a small smear of masa on the steel. Static camera.*
+- **Audio:** the tick of the watch clasp, the kitchen noise ducked under it.
+
+### Shot 4 · 0:13 · CU, shot/reverse · 7s (4a 5s Abby, 4b 2s Hunter) · Masa Mía
+
+- **Keyframe 4a:** *Close-up of [ABBY], unsure, studying him, then the start of a slow smile, papel picado and steam behind, warm light, looking screen-right, vertical 9:16.*
+- **Keyframe 4b:** *Medium close-up of [HUNTER], reverse angle, eyeline matched to her, deadpan, trying to keep a straight face, looking screen-left, vertical 9:16.*
+- **Video (Veo 3.1):** *4a: a beat of doubt, then the smile wins and she delivers the line like it's the funniest thing she's heard all week. 4b: he answers flat and earnest; her "Clearly" lands off camera while he holds his face still. Static camera.*
+- **Line (ABBY, 4a):** "Your dad's fraud team called about a tamale."
+- **Lines (4b):** HUNTER: "He's very thorough." ABBY (off camera): "Clearly."
+
+### Shot 5 · 0:20 · WS · 3s · Penthouse
+
+- **Keyframe:** *Wide shot of [HUNTER] alone at a long white marble island in a vast gray penthouse at night, small in frame, tearing the shrink-wrap off a boxed stainless cookware set, a pile of dry corn husks on the cold marble, floor-to-ceiling windows onto a blue city skyline, single cool strip light, vertical 9:16, cinematic.* (Reference: the penthouse plate.)
+- **Video (Kling):** *He rips the plastic off in one long pull and sets the first pot on the island. The room stays enormous and still around him. Static camera.*
+- **Audio:** plastic ripping, echoing in the empty room. Soft solo piano starts.
+
+### Shot 6 · 0:23 · MCU · 2s · Penthouse
+
+- **Keyframe:** *Medium close-up of [HUNTER] at the island, the phone plate in his hand (green screen) tilted toward him, a lumpy tamale on a plate beside the new pot, cold blue window light on one side of his face, empty dark room behind, vertical 9:16.*
+- **Video (Veo 3.1):** *The phone buzzes in his hand; he reads it and laughs out loud, alone, a real laugh that echoes. Static camera.*
+- **Post:** composite screen A (Abby's text) on his phone, legible for the full 2 seconds.
+- **Audio:** a text buzz, his laugh, piano continues.
+
+### Shot 7 · 0:25 · WS, whip pan · 3s · 4th floor
+
+- **Keyframe:** *Wide shot of the open-plan office, rows of white desks, everyone facing a large wall screen (green screen) at the end of the room, flat fluorescent light, steel-blue palette, vertical 9:16.* (Reference: the 4th-floor all-hands plate.)
+- **Video (Runway):** *A fast whip pan with heavy motion blur lands on the wall screen and settles.*
+- **Post:** composite screen B, the all-hands grid with Hunter's black tile, and text in the top third: *Monday. All-hands.*
+- **Audio:** whoosh into muffled meeting audio; the piano cuts on the whip.
+
+### Shot 8 · 0:28 · MS · 2s · 4th floor
+
+- **Keyframe:** *Medium shot down a row of desks, employees hunched over plastic clamshell salads, forks paused, watching the wall screen with blank faces, fluorescent light, steel-blue palette, vertical 9:16.*
+- **Video (Kling):** *Someone stabs a lettuce leaf without looking; someone else checks Slack. Nobody talks. Static camera.*
+- **Audio:** muffled meeting audio, plastic forks on plastic.
+
+### Shot 9 · 0:30 · INS + cutaway · 7s (9a 2s screen, 9b 5s Abby) · 4th floor
+
+- **Keyframe 9a:** *Insert of the wall screen (green screen), framed tight so the video grid fills the vertical frame, a fluorescent reflection across the glass, vertical 9:16.*
+- **Keyframe 9b:** *Close-up of [ABBY] at her desk, a fork in a sad desk salad, watching the screen screen-right with a skeptical look, mustard-yellow mug in the foreground soft, fluorescent light, vertical 9:16.*
+- **Video (Veo 3.1 for Priya's webcam feed, then composite):** *9a: [PRIYA] in webcam framing, reading crisply from her tablet, glancing up once. 9b: Abby listens, slowly stops chewing, and rolls her eyes at "traveling." Static camera.*
+- **Line (PRIYA, 9a):** "Hi, everyone."
+- **Line (PRIYA, off camera over 9b):** "Hunter's traveling this week, so he asked me to read his update—"
+- **Post:** composite Priya's feed as the active-speaker tile in screen B; keep Hunter's black tile visible in the grid.
+
+### Shot 10 · 0:37 · MS · 2s · 4th floor
+
+- **Keyframe:** *Medium two-shot of [HUNTER] and [ABBY] side by side at neighboring desks, both facing the wall screen off camera left, Abby upright with her salad, Hunter sliding down in his chair, fluorescent light, vertical 9:16.*
+- **Video (Kling):** *He sinks lower and lower in his chair, trying to disappear behind his monitor. She doesn't notice. Static camera.*
+- **Audio:** chair creak, Priya's voice muffled underneath.
+
+### Shot 11 · 0:39 · MCU + cutaway · 6s (11a 3s Abby, 11b 3s Hunter) · 4th floor
+
+- **Keyframe 11a:** *Medium close-up of [ABBY], leaning slightly toward screen-right without turning her head, eyes still on the wall screen, a conspiratorial half-smile, fluorescent light, vertical 9:16.*
+- **Keyframe 11b:** *Close-up of [HUNTER], slumped low in his chair, eyes sliding sideways toward her, very still, fluorescent light, vertical 9:16.*
+- **Video (Veo 3.1):** *11a: she whispers out of the side of her mouth, never looking away from the screen. 11b: he listens, swallows, and asks the question barely above a whisper. Static camera.*
+- **Line (ABBY, 11a):** "Four years. Never seen the guy's face."
+- **Lines (11b):** ABBY (off camera): "You know what I'd tell him?" HUNTER: "…What?"
+
+### Shot 12 · 0:45 · CU + cutaway · 9s (12a 5s Abby, 12b 4s Hunter) · 4th floor
+
+- **Keyframe 12a:** *Close-up of [ABBY], now turned toward him, half joking, half not, one hand gesturing with her fork at the room, fluorescent light, rows of desks soft behind, vertical 9:16.*
+- **Keyframe 12b:** *Close-up of [HUNTER], listening, eyes moving past her to the room beyond, the first crack of discomfort, fluorescent light, vertical 9:16.*
+- **Video (Veo 3.1):** *12a: she starts light, the "Right?" is a real question, and the joke drains out by "Look around." 12b: he takes it in without blinking; his jaw tightens slightly. Static camera.*
+- **Line (ABBY, 12a):** "Like— we get paid fine. Right? And nobody goes anywhere. Look around."
+- **Line (ABBY, off camera over 12b):** "Everybody's eating at their desk. It's kind of sad."
+
+### Shot 13 · 0:54 · CU, push-in · 2s · 4th floor
+
+- **Keyframe:** *Close-up of [HUNTER], sitting up a little, looking past camera around the office as if seeing it for the first time, desks and hunched coworkers soft behind him, fluorescent light, vertical 9:16.*
+- **Video (Runway):** *A slow dolly push-in on his face as his eyes travel across the room. He says the line almost to himself.*
+- **Line (HUNTER):** "Maybe he doesn't know."
+- **Audio:** room tone drops away for the line.
+
+### Shot 14 · 0:56 · CU · 5s · 4th floor
+
+- **Keyframe:** *Close-up of [ABBY], mid-shrug, fork down, a wry look, peeling a yellow sticky note off a pad in her other hand, fluorescent light, vertical 9:16.*
+- **Video (Veo 3.1):** *She shrugs, says it straight, then a quick grin on "I like my job" as she uncaps a marker. Static camera.*
+- **Line (ABBY):** "Then somebody should tell him. Not me. I like my job."
+
+### Shot 15 · 1:01 · INS · 2s · 4th floor
+
+- **Keyframe:** *Top-down insert of a yellow sticky note on a white desk, a woman's hand with a gold ring writing on it with a black marker, mustard-yellow mug at the edge of frame, fluorescent light, vertical 9:16.*
+- **Video (Kling):** *The marker finishes the last word with a flourish. Static camera.*
+- **Post:** composite insert C, Abby's handwriting: *float spa · kayaks?? · pottery*.
+- **Audio:** marker squeak.
+
+### Shot 16 · 1:03 · INS · 2s · 4th floor
+
+- **Keyframe:** *Insert of the bezel of a black office monitor, a woman's hand with a gold ring and a cardigan cuff pressing a yellow sticky note onto it, fluorescent light, vertical 9:16.*
+- **Video (Kling):** *Her palm slaps the note onto the monitor, presses once, and pulls away. Static camera.*
+- **Post:** carry insert C onto the note.
+- **Audio:** slap.
+
+### Shot 17 · 1:05 · MCU · 4s · 4th floor
+
+- **Keyframe:** *Medium close-up of [ABBY], leaning back in her chair, arms folded, pleased with herself, looking screen-right at him, fluorescent light, vertical 9:16.*
+- **Video (Veo 3.1):** *She delivers it breezy, then leans in with mock menace on "Huge pressure," eyebrows up. Static camera.*
+- **Line (ABBY):** "Okay. You pick next. No pressure. Huge pressure."
+
+### Shot 18 · 1:09 · INS · 2s · 4th floor
+
+- **Keyframe:** *Close insert of the sticky note on the monitor bezel, a man's hand holding a blue ballpoint over it, steel watch on the wrist, fluorescent light, vertical 9:16.*
+- **Video (Kling):** *The pen hovers over "pottery," drifts up, and draws a firm circle around "float spa." Static camera.*
+- **Post:** composite insert C with the circle drawn on in sync with the pen.
+- **Line (ABBY, off camera, reading over his shoulder):** "Look at you."
+
+### Shot 19 · 1:11 · WS, low angle · 3s · Elevator bank
+
+- **Keyframe:** *Low-angle wide shot of brushed-steel elevator doors opening on the 4th floor, [GRANT] stepping out in a sharp charcoal suit, chin up, scanning the floor, cool hard light, vertical 9:16, cinematic.* (Reference: the elevator plate.)
+- **Video (Runway):** *Low angle with a slight push-in as he steps out and the doors close behind him. He stops and looks slowly across the room.*
+- **Audio:** elevator chime, then a low tension drone starts.
+
+### Shot 20 · 1:14 · MS · 2s · 4th floor
+
+- **Keyframe:** *Medium shot of [PRIYA] across the office between desks, looking up from her tablet in alarm, eyes wide, fluorescent light, vertical 9:16.*
+- **Video (Kling):** *She looks from Grant to someone off camera and frantically mouths "MOVE," jabbing the tablet sideways. Static camera.*
+- **Audio:** drone builds. No dialogue.
+
+### Shot 21 · 1:16 · MCU · 2s · 4th floor
+
+- **Keyframe:** *Medium close-up of [GRANT] walking toward camera between desks, a thin smile that doesn't reach his eyes, fluorescent light, coworkers blurred behind, vertical 9:16.*
+- **Video (Veo 3.1):** *He spots his target, the smile sharpens, and he says the name pleasantly without breaking stride. Gentle handheld backing away.*
+- **Line (GRANT):** "Hunter?"
+
+### Shot 22 · 1:18 · CU · 3s · 4th floor
+
+- **Keyframe:** *Close-up of [ABBY] swiveling her chair toward screen-right, mouth open, delighted and scandalized, fluorescent light, vertical 9:16.*
+- **Video (Veo 3.1):** *Her chair spins to face him on the first word; her voice climbs on "COO Grant." Static camera.*
+- **Line (ABBY):** "Wait— you know Grant? Like, COO Grant?"
+
+### Shot 23 · 1:21 · CU · 4s · 4th floor
+
+- **Keyframe:** *Close-up of [HUNTER] at his desk, frozen, staring up past camera, a man's shadow falling across the desk and the sticky note on the monitor beside him, fluorescent light, vertical 9:16.*
+- **Video (Kling):** *The shadow slides across the desk and over his face. He doesn't move. Static camera.*
+- **Post:** hold 0.5s, a 3-frame freeze with a desaturation flash, then a cut to black and the card *Episode 4 of 10*.
+- **Audio:** the drone cuts dead on the freeze.
+
+## Step 3: Voices
+
+Use the saved voice IDs for Hunter, Abby and Priya. Create one new voice for Grant in ElevenLabs Voice Design, save it, and reuse it for the rest of the season. Same settings as Episode 1.
+
+| Voice | Voice Design description |
+| --- | --- |
+| Grant | Male, mid-30s, American, smooth and polished, measured, quietly condescending, pleasant on the surface with no warmth under it, never raises his voice |
+
+### Every line, in order
+
+| # | Cut | Who | Line | Delivery |
+| --- | --- | --- | --- | --- |
+| 1 | 1 | Abby | "…Who's Mr. Cole?" | Slow, amused suspicion |
+| 2 | 2a | Hunter | "My dad. It's— we have a joint— it's my dad's card." | Too fast, restarting, nervous laugh |
+| 3 | 2b | Hunter (O.S.) | "He's… a lot." | Trailing off, relieved to land somewhere |
+| 4 | 4a | Abby | "Your dad's fraud team called about a tamale." | Starting unsure, smile breaking through |
+| 5 | 4b | Hunter | "He's very thorough." | Flat, earnest |
+| 6 | 4b | Abby | "Clearly." | Dry, off camera |
+| 7 | 9a | Priya | "Hi, everyone." | Crisp, meeting voice, slight laptop-mic quality |
+| 8 | 9b | Priya (O.S.) | "Hunter's traveling this week, so he asked me to read his update—" | Fast, rehearsed, cut off on the dash |
+| 9 | 11a | Abby | "Four years. Never seen the guy's face." | Whispered, side of the mouth |
+| 10 | 11b | Abby (O.S.) | "You know what I'd tell him?" | Whispered, conspiratorial |
+| 11 | 11b | Hunter | "…What?" | Barely audible, wary |
+| 12 | 12a | Abby | "Like— we get paid fine. Right? And nobody goes anywhere. Look around." | Light at first, sincere by the end |
+| 13 | 12b | Abby (O.S.) | "Everybody's eating at their desk. It's kind of sad." | Quiet, no joke left |
+| 14 | 13 | Hunter | "Maybe he doesn't know." | Almost to himself |
+| 15 | 14 | Abby | "Then somebody should tell him. Not me. I like my job." | Shrug, then a grin |
+| 16 | 17 | Abby | "Okay. You pick next. No pressure. Huge pressure." | Breezy, then mock menace |
+| 17 | 18 | Abby (O.S.) | "Look at you." | Pleased, teasing, close behind him |
+| 18 | 21 | Grant | "Hunter?" | Pleasant, too smooth |
+| 19 | 22 | Abby | "Wait— you know Grant? Like, COO Grant?" | Scandalized, pitch climbing |
+
+Abby's text in shot 6 (*lupe says ur tamale is "brave"*) is on screen only; it is not voiced.
+
+## Step 4: Screens and inserts
+
+Build these in Figma at 1080×1920 and export them as PNGs for compositing. Groupon screens follow the Episode 1 mock style; this episode's screens are a text thread, a video call and a handwritten note.
+
+| Screen | Used in | What's on it |
+| --- | --- | --- |
+| **A. Abby's text** | Shot 6 | A messages screen, contact name *Abby* with a small mustard-yellow avatar. Earlier bubble from Hunter: *made them at home. pics soon*. New gray bubble from Abby: *lupe says ur tamale is "brave"*, timestamp *9:47 PM* |
+| **B. All-hands call** | Shots 7, 9 | A generic video-call app, title bar *Lumen · Monday All-Hands*, a grid of 12 tiles of made-up employees in home offices. Priya's tile is the active speaker with a green border and the name *Priya N.*. One tile is a plain black square with only *Hunter C. — camera off* and a muted-mic icon. Participant count *214* in the corner |
+| **C. Sticky note** | Shots 15, 16, 18 | Abby's handwriting in black marker, loose and fast, three lines: *float spa · kayaks?? · pottery*. A second version with a blue ballpoint circle around *float spa* for shot 18 |
+
+## Step 5: Assembly and checks
+
+Cut in CapCut or DaVinci Resolve on a 1080×1920 timeline. The 23 shots are cut into 28 pieces that add up to exactly 85 seconds.
+
+1. **Lay picture.** Place the shots in order and trim each cut to its length, in order (1, 2a, 2b, 3, 4a, 4b, 5, 6, 7, 8, 9a, 9b, 10, 11a, 11b, 12a, 12b, 13–23): 3 · 5 · 3 · 2 · 5 · 2 · 3 · 2 · 3 · 2 · 2 · 5 · 2 · 3 · 3 · 5 · 4 · 2 · 5 · 2 · 2 · 4 · 2 · 3 · 2 · 2 · 3 · 4.
+2. **Composite.** Add screen A to Hunter's phone in shot 6, screen B to the wall screen in shots 7 and 9 (Priya's feed in her tile), and insert C on the sticky note in shots 15, 16 and 18.
+3. **Lip-sync and place lines.** Sync lines 1–19 from Step 3. Leave a beat before "Maybe he doesn't know." Grant's "Hunter?" lands just as the drone peaks.
+4. **Grade.** Masa Mía is warm tungsten and gold, the warmest scene so far. The penthouse is cold blue and empty. The office is the cool "Glass" look. The cut from shot 4 to shot 5 should feel like the heat leaving the room.
+5. **Music and sound.**
+   - Kitchen bustle and steam under shots 1–4; the watch clasp tick in shot 3.
+   - Soft piano starts on the plastic rip (shot 5) and cuts on the whip pan (shot 7).
+   - Muffled meeting audio and plastic forks under shots 7–12.
+   - Elevator chime and tension drone from shot 19, cut dead on the freeze in shot 23.
+   - Office room tone under everything on the 4th floor.
+6. **Text and captions.** *Monday. All-hands.* in the top third of shot 7. Burn in word-by-word captions above the bottom 20%, and add the end card *Episode 4 of 10*.
+7. **Export.** H.264, 1080×1920, 30 fps.
+
+### Final checks
+
+- [ ] Hunter, Abby, Priya and Grant match their reference sheets in every shot
+- [ ] Hunter wears the navy quarter-zip and the steel watch in every shot he's in, including the penthouse
+- [ ] Abby's beanie, hoops and claw clip are there in every shot she's in (apron only at Masa Mía)
+- [ ] The watch twist in shot 3 reads clearly, masa smudge and all
+- [ ] The cookware set is still shrink-wrapped until the rip in shot 5
+- [ ] Hunter's tile reads *Hunter C. — camera off* and is legible in shots 7 and 9a
+- [ ] The sticky note reads *float spa · kayaks?? · pottery*, and the circle lands on *float spa* in shot 18
+- [ ] Abby's text in shot 6 is legible for the full 2 seconds
+- [ ] No garbled text, real logos or extra fingers anywhere
+- [ ] The captions match the audio word for word
+- [ ] Total runtime is 1:25, and the episode ends on Grant's shadow, a freeze, and a hard cut to black with *Episode 4 of 10*

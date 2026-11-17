@@ -1,0 +1,2947 @@
+{
+"1": [
+[
+"1",
+"22nd floor boardroom",
+"CU",
+"5",
+"Grant slides a tablet down black lacquer toward the head of the table",
+"GRANT: \"Two hundred roles, Hunter. The board wants your signature by end of quarter.\" Cold drone",
+"plate:22nd floor boardroom"
+],
+[
+"2",
+"Boardroom",
+"MCU",
+"4",
+"Hunter at the head of the table, thumb twisting his watch",
+"HUNTER (V.O.): \"Two hundred people. I don't know one of their names.\"",
+"new: Hunter at the head of an empty black boardroom table, cold dusk light, twisting his steel watch"
+],
+[
+"3",
+"Boardroom",
+"INS",
+"2",
+"The tablet: RESTRUCTURE · WAVE 1 · 4TH FLOOR, PRODUCT DESIGN",
+"GRANT (O.S.): \"Start with Design. They're… sentimental.\"",
+"new: tablet on black lacquer reading RESTRUCTURE WAVE 1 4TH FLOOR PRODUCT DESIGN"
+],
+[
+"4",
+"Boardroom",
+"CU",
+"3",
+"Hunter looks up",
+"HUNTER: \"Give me two weeks.\" GRANT: \"For what?\"",
+"e01:17"
+],
+[
+"5",
+"Lobby, morning",
+"ECU",
+"2",
+"The watch twist",
+"HUNTER (V.O.): \"To meet who I'm firing.\"",
+"e01:1"
+],
+[
+"6",
+"Lobby",
+"WS, LO",
+"5",
+"Hunter small in the glass atrium, walking past the blurry founder photo. On screen: *He owns the building.*",
+"HUNTER (V.O.): \"Nobody here knows my face. I skipped every photo shoot. Finally paying off.\"",
+"e01:2"
+],
+[
+"7",
+"Lobby",
+"INS",
+"2",
+"Badge reader: HUNTER C · OPS (TEMP), beeps green",
+"Beep",
+"e01:3"
+],
+[
+"8",
+"4th floor",
+"MS",
+"2",
+"Hunter at a borrowed desk with a protein bar. A chair rolls into frame and bumps his",
+"Thunk. Playful plucked strings start",
+"e01:4"
+],
+[
+"9a",
+"4th floor",
+"MCU",
+"5",
+"Abby with her mustard mug, squinting at the bar",
+"ABBY: \"Okay, I have to ask. Same protein bar? Three days running?\"",
+"e01:5"
+],
+[
+"9b",
+"4th floor",
+"CU (reaction)",
+"2",
+"Hunter, caught mid-chew",
+"HUNTER (V.O.): \"She's counting. Who counts?\"",
+"e01:6"
+],
+[
+"10a",
+"4th floor",
+"OTS on Hunter",
+"2",
+"Over Abby's shoulder",
+"HUNTER: \"It's got… everything you need.\"",
+"e01:6"
+],
+[
+"10b",
+"4th floor",
+"MCU (reverse)",
+"4",
+"Reverse on Abby, deadpan",
+"ABBY: \"It's chalk. You're eating chalk in a wrapper.\"",
+"e01:5"
+],
+[
+"10c",
+"4th floor",
+"CU",
+"4",
+"Abby's eyes drop to his wrist, then back up with a smile",
+"ABBY (V.O.): \"New guy. Nice watch. Sad lunch. Something's off.\"",
+"e01:5"
+],
+[
+"11",
+"4th floor",
+"INS",
+"5",
+"Abby slides half her torta across the desk",
+"ABBY: \"Here. My tía always makes too much. Don't make it weird.\"",
+"e01:7"
+],
+[
+"12",
+"4th floor",
+"INS",
+"4",
+"Abby's monitor: a calendar invite, *Promotion review · Fri 9:00*",
+"ABBY (V.O.): \"Friday. Promotion review. Do not cry at your desk, Reyes.\"",
+"new: computer monitor showing a calendar invite reading Promotion review Fri 9:00, mustard mug beside it"
+],
+[
+"13a",
+"Kitchenette",
+"MS (diagonal)",
+"3",
+"They eat standing at the counter",
+"ABBY: \"So. Weekend. What'd you do?\"",
+"e01:8"
+],
+[
+"13b",
+"Kitchenette",
+"MCU (reverse)",
+"4",
+"Reverse on Hunter",
+"HUNTER: \"Caught up on some… stuff.\" ABBY: \"Work stuff?\" HUNTER: \"…Yeah.\"",
+"e01:9"
+],
+[
+"13c",
+"Kitchenette",
+"MCU (reverse)",
+"4",
+"Reverse on Abby",
+"ABBY: \"And the weekend before?\" HUNTER (O.S.): \"You're doing a thing.\"",
+"e01:8"
+],
+[
+"13d",
+"Kitchenette",
+"Same angle (cont.)",
+"2",
+"Hold on Abby, grinning",
+"ABBY: \"I'm totally doing a thing.\"",
+"e01:8"
+],
+[
+"14a",
+"Kitchenette",
+"PUSH on Hunter",
+"5",
+"A slow push-in",
+"ABBY (O.S.): \"When's the last time you did something you'd never done before?\"",
+"e01:9"
+],
+[
+"14b",
+"Kitchenette",
+"Same angle (cont.)",
+"4",
+"Hold on Hunter. A long pause",
+"HUNTER (V.O.): \"Signed a billion-dollar deal in a parking garage. Doesn't count.\"",
+"e01:9"
+],
+[
+"14c",
+"Kitchenette",
+"Same angle (cont.)",
+"3",
+"Hold",
+"HUNTER: \"…Define 'something.'\" ABBY (O.S.): \"Oh no. You're a project.\"",
+"e01:9"
+],
+[
+"15",
+"Kitchenette",
+"POV (App Glow)",
+"3",
+"Abby scrolls *Things to do near you* in the Groupon app",
+"ABBY (V.O.): \"Under forty bucks. Fun. Zero protein bars.\"",
+"screen:e01_feed.jpg"
+],
+[
+"16",
+"Kitchenette",
+"INS",
+"2",
+"The deal card: *Axe Throwing for Two · $39 · Regular $70 · West Loop*",
+"Soft shimmer",
+"screen:e01_deal.jpg"
+],
+[
+"17a",
+"Kitchenette",
+"MCU",
+"4",
+"Abby turns the phone to him",
+"ABBY: \"Friday night. My treat. It's a Groupon, relax.\"",
+"e01:12"
+],
+[
+"17b",
+"Kitchenette",
+"MCU (reverse)",
+"4",
+"Reverse on Hunter, cornered",
+"HUNTER: \"I'm not really a… I don't really do stuff.\"",
+"e01:9"
+],
+[
+"17c",
+"Kitchenette",
+"CU",
+"4",
+"Hold on Hunter",
+"HUNTER (V.O.): \"Say no. You might be firing her department. Say no.\"",
+"e01:9"
+],
+[
+"17d",
+"Kitchenette",
+"MCU (reverse)",
+"3",
+"Reverse on Abby",
+"ABBY: \"Yeah. I got that from the chalk.\"",
+"e01:12"
+],
+[
+"17e",
+"Kitchenette",
+"CU",
+"2",
+"Hunter, a beat, then a helpless half-smile",
+"HUNTER: \"…Okay.\"",
+"e01:9"
+],
+[
+"18",
+"Kitchenette",
+"INS",
+"2",
+"Tap *Buy*, and the voucher appears",
+"The deal \"ding\"",
+"screen:e01_voucher.jpg"
+],
+[
+"19",
+"4th floor, late",
+"HH",
+"6",
+"Hunter alone at the desk with the shared voucher. He reads it twice and smiles. Golden light through the blinds",
+"A text from ABBY: *bring ur chalk* · HUNTER (V.O.): \"One date. Then I tell her. Then I fix this.\"",
+"e01:14"
+],
+[
+"20",
+"4th floor, late",
+"INS",
+"2",
+"In his open bag, the corner of the tablet: *WAVE 1 · 4TH FLOOR*",
+"Cold drone returns · HUNTER (V.O.): \"Somehow.\"",
+"new: open dark canvas messenger bag on an office desk at golden hour, a tablet inside showing WAVE 1 4TH FLOOR"
+],
+[
+"21",
+"Elevator bank",
+"WS, LO",
+"3",
+"Elevator doors open; Priya rushes out with a tablet, scanning the floor",
+"Strings stop",
+"e01:15"
+],
+[
+"22",
+"4th floor",
+"MS",
+"2",
+"Priya spots him, relieved, and calls across the floor",
+"PRIYA: \"There you are! Mr. Co—\"",
+"e01:16"
+],
+[
+"23",
+"4th floor",
+"CU, push-in",
+"4",
+"Hunter's eyes go wide. Rack focus to Abby turning around. Freeze",
+"ABBY (V.O.): \"Mister… what?\" Cut to black · *Episode 1 of 10*",
+"e01:17"
+]
+],
+"2": [
+[
+"1",
+"Axe lane (flash-forward)",
+"WS, slow motion",
+"3",
+"An axe tumbles end over end toward the target, sawdust hanging in the light. On screen: *Friday*",
+"ABBY (V.O.): \"Never hand a liar an axe.\"",
+"e02:13"
+],
+[
+"2",
+"4th floor (recap)",
+"CU",
+"3",
+"Priya mid-stride, mid-word. On screen: *Earlier that week*",
+"PRIYA: \"There you are! Mr. Co—\"",
+"e02:1"
+],
+[
+"3",
+"4th floor",
+"MCU",
+"5",
+"Priya pivots without missing a beat, a too-bright smile, waving vaguely at the elevators",
+"PRIYA: \"—pier. Copier. The copier guy is here. For the… copier.\"",
+"e02:2"
+],
+[
+"4a",
+"4th floor",
+"MS",
+"3",
+"Hunter stands up too fast; the chair rolls back behind him",
+"HUNTER: \"Copier. Yep. Love a copier.\"",
+"e02:3a"
+],
+[
+"4b",
+"4th floor",
+"MCU (reverse)",
+"4",
+"Abby watches him go, mug halfway to her mouth, one eyebrow climbing",
+"ABBY (V.O.): \"We don't have a copier. Our printer hates us.\"",
+"e02:3b"
+],
+[
+"5a",
+"22nd floor, elevator bank",
+"MCU",
+"5",
+"The doors open on 22. Grant is leaning in the doorway, coffee in hand, as if he's been waiting a while",
+"GRANT: \"Priya. Eleven to four, every day. Blank calendar. Where does he go?\"",
+"new: Grant leaning against a brushed-steel elevator doorframe on a glass executive floor, charcoal suit, paper coffee cup, thin smile, cool hard light"
+],
+[
+"5b",
+"22nd floor",
+"CU",
+"3",
+"Priya, tablet hugged to her chest, smiling much too hard",
+"PRIYA: \"Pilates.\" GRANT (V.O.): \"Five hours of Pilates. Sure.\"",
+"e02:2 (relit cool, exec hallway)"
+],
+[
+"6",
+"4th floor, Friday morning",
+"INS",
+"3",
+"Abby's monitor: the invite now reads *Promotion review · POSTPONED · Office of the COO*",
+"ABBY (V.O.): \"Postponed. Cool. Not fine.\"",
+"new: computer monitor showing a calendar invite reading Promotion review POSTPONED Office of the COO, mustard mug beside it, fluorescent light"
+],
+[
+"7",
+"4th floor",
+"CU",
+"3",
+"Across the desks, Hunter sees her face drop. He knows exactly whose office that is",
+"HUNTER (V.O.): \"Grant. He froze her review.\"",
+"e04:11b"
+],
+[
+"8",
+"Exterior, Bullseye Axe House",
+"WHIP → WS",
+"3",
+"Match cut from a glass wall to red brick, neon and wet street. On screen: *Friday. West Loop.*",
+"Rock guitar kicks in",
+"e02:4"
+],
+[
+"9",
+"Check-in",
+"INS",
+"4",
+"Abby holds up her phone, screen away from camera; the scanner beeps",
+"ABBY: \"Did you bring the chalk?\" HUNTER (O.S.): \"Two bars. Emergencies.\" The deal \"ding\"",
+"e02:5"
+],
+[
+"10",
+"Check-in",
+"MCU",
+"3",
+"Hunter pulls a thick fold of hundreds in a silver money clip, earnest",
+"HUNTER: \"What do I owe you?\"",
+"e02:6"
+],
+[
+"11",
+"Check-in",
+"MCU",
+"4",
+"The staffer stares at the cash, completely still",
+"STAFFER: \"…Bro. It's paid. It's on her phone.\"",
+"e02:7"
+],
+[
+"12a",
+"Check-in",
+"OTS on Hunter",
+"4",
+"The secret shot, framed a little too close: he tucks the cash away too fast",
+"ABBY: \"Who carries that much cash?\" HUNTER: \"Tips.\" ABBY: \"For who, the Bears?\"",
+"e02:8a"
+],
+[
+"12b",
+"Check-in",
+"MCU (reverse)",
+"5",
+"Reverse on Abby, arms folded, amused and suspicious",
+"ABBY (V.O.): \"Nice watch. Cash roll. Chalk for lunch. Broke-weird or rich-weird?\"",
+"e02:8c"
+],
+[
+"13",
+"Check-in",
+"ECU",
+"2",
+"The watch twist",
+"HUNTER (V.O.): \"She's counting again.\"",
+"e02:9"
+],
+[
+"14",
+"Lane",
+"HH montage",
+"4",
+"Three throws clatter off the target. Abby is bent over, crying with laughter",
+"ABBY: \"Oh my god.\" / \"Okay, that one went backwards.\" Comic stings",
+"e02:10"
+],
+[
+"15a",
+"Lane",
+"MS",
+"4",
+"Abby steps behind him, one hand on his shoulder, fixing his elbow",
+"ABBY: \"Aiming like it owes you money. Shoulders down. Breathe.\"",
+"e02:11a"
+],
+[
+"15b",
+"Lane",
+"CU (reaction)",
+"5",
+"Hunter, listening, jaw relaxing; she's very close",
+"HUNTER (V.O.): \"She smells like cinnamon. Focus. It's an axe.\" ABBY (O.S.): \"And let go.\"",
+"e02:11b"
+],
+[
+"16",
+"Lane",
+"PUSH, CU",
+"2",
+"Hunter exhales and his eyes close",
+"All sound falls away",
+"e02:12"
+],
+[
+"17",
+"Lane",
+"WS, slow motion",
+"3",
+"The axe from the opening turns in the air. THUNK: bullseye",
+"Big impact. Music swells",
+"e02:13"
+],
+[
+"18",
+"Lane",
+"CU",
+"3",
+"Hunter spins toward her, laughing, loud and real",
+"HUNTER: \"Did you— did you SEE that?\"",
+"e02:14"
+],
+[
+"19",
+"Lane",
+"MCU",
+"3",
+"Abby, hands on her head, beanie pushed back",
+"ABBY: \"Who ARE you right now?\"",
+"e02:15"
+],
+[
+"20a",
+"Picnic table",
+"MS (diagonal)",
+"4",
+"Later. Beers in plastic cups, a basket of fries",
+"HUNTER: \"I'm so bad at this.\" ABBY: \"You're SO bad.\"",
+"e02:16a"
+],
+[
+"20b",
+"Picnic table",
+"MCU (reverse)",
+"4",
+"Reverse on Hunter, cup in both hands",
+"HUNTER: \"I kind of love it?\" ABBY (O.S.): \"Right? Nobody's watching.\"",
+"e02:16b"
+],
+[
+"20c",
+"Picnic table",
+"CU (reaction)",
+"4",
+"Hunter, chin on hand, looking at her a beat too long",
+"ABBY (O.S.): \"You just get to be bad at something. No grade.\"",
+"e02:16c"
+],
+[
+"21",
+"Picnic table",
+"INS",
+"4",
+"The photo Abby just took of him mid-cheer (hero prop)",
+"Camera shutter · ABBY (V.O.): \"Do not get a crush on the temp, Reyes.\"",
+"e02:17"
+],
+[
+"22a",
+"Picnic table",
+"WS",
+"5",
+"Jo arrives in scrubs and a denim jacket, hugs Abby, then shakes Hunter's hand a beat too long, eyes dropping to his watch",
+"JO: \"Sorry, the Blue Line's a crime scene— oh. Hi. Have we met?\"",
+"e02:18a"
+],
+[
+"22b",
+"Picnic table",
+"MCU (reverse)",
+"3",
+"Hunter, still mid-handshake, tight smile",
+"HUNTER: \"I've got one of those faces.\"",
+"e02:18b"
+],
+[
+"23",
+"Picnic table",
+"INS, POV",
+"3",
+"Jo types *lumen founder*, then pinch-zooms a grainy 2019 conference photo: a man on a stage, from the side. Caption: *Lumen founder (rarely photographed)*",
+"Pinch-zoom tick",
+"e02:20"
+],
+[
+"24",
+"Picnic table",
+"CU",
+"3",
+"Jo looks up at Hunter, then back down at the phone",
+"JO (V.O.): \"No. No way.\"",
+"e02:21"
+],
+[
+"25",
+"Picnic table",
+"MCU",
+"4",
+"Hunter laughing at something Abby said, relaxed, oblivious",
+"HUNTER (V.O.): \"Two more weeks of this. I could do that.\"",
+"e02:16b"
+],
+[
+"26",
+"Picnic table",
+"CU",
+"4",
+"Jo leans in, phone pressed face-down to her chest, eyes urgent. Freeze",
+"JO: \"Abby. Come here. Like, right now.\" Cut to black · *Episode 2 of 10*",
+"e02:22"
+]
+],
+"3": [
+[
+"1",
+"Masa Mía kitchen (flash-forward)",
+"MCU",
+"3",
+"Lupe points her wooden spoon dead at the lens. On screen: *Saturday*",
+"LUPE: \"You. Office hands. Show me.\"",
+"e03:13a"
+],
+[
+"2",
+"Bullseye (recap)",
+"CU",
+"3",
+"Jo, low, phone pressed to her chest. On screen: *Friday night*",
+"JO: \"Abby. Come here. Like, right now.\"",
+"e03:1"
+],
+[
+"3a",
+"Bullseye",
+"MS",
+"4",
+"Abby leans over Jo's shoulder, chin on her hand, unimpressed",
+"ABBY: \"That's a guy in a hoodie. From the side.\"",
+"e03:3a"
+],
+[
+"3b",
+"Bullseye",
+"CU",
+"4",
+"Jo, squinting, not letting it go",
+"JO: \"Same ears, though.\" ABBY (O.S.): \"Half of Chicago has ears.\"",
+"e03:3b"
+],
+[
+"4",
+"Check-in counter",
+"ECU",
+"3",
+"Hunter at the counter, paying for fries in cash, overhears. His hand drifts up to his ear. The watch",
+"HUNTER (V.O.): \"Don't touch your ear. Don't—\"",
+"e03:4"
+],
+[
+"5",
+"Bullseye",
+"MS",
+"4",
+"Abby laughs, steals a fry, then glances at Hunter's back a second too long",
+"ABBY: \"Lumen's founder. Eating our fries.\" ABBY (V.O.): \"…Same ears, though.\"",
+"e03:3a"
+],
+[
+"6",
+"Abby & Jo's apartment",
+"WS",
+"3",
+"Match cut, glass to brick. Abby on the couch under string lights; the fridge behind her is papered with vouchers, the Bullseye one pinned on top. On screen: *Saturday. Pilsen.*",
+"Warm guitar",
+"e03:5"
+],
+[
+"7",
+"Apartment",
+"POV (App Glow)",
+"3",
+"The Groupon app's Classes tab. Card: *Tamale-Making Class · $34 · Regular $60 · Hands-on, and you leave with dinner*. She texts",
+"ABBY (V.O.): \"Thirty-four bucks. Lupe yells for free.\" Text: *do u cook*",
+"screen:e03_classes.jpg"
+],
+[
+"8",
+"Hunter's penthouse",
+"WS, LO",
+"3",
+"Hunter alone at the island. A takeout bag. A cookware set still sealed in plastic. He types, then winces at her reply",
+"Fridge hum. Texts: *define cook* · *oh no. still a project* · HUNTER (V.O.): \"Nine pans. Never opened one.\"",
+"e03:8"
+],
+[
+"9a",
+"Kitchen",
+"MS",
+"5",
+"Doña Lupe grabs Abby's face in both floury hands. Hunter hangs back, hands in pockets",
+"LUPE: \"¡Mija! Look at you! And who's this? Flaco. Too skinny. Sit.\"",
+"e03:11a"
+],
+[
+"9b",
+"Kitchen",
+"CU (reaction)",
+"4",
+"Hunter, startled to be noticed, a small surprised laugh",
+"LUPE (O.S.): \"Half my students find me on Groupon now.\"",
+"e03:11b"
+],
+[
+"10",
+"Kitchen",
+"HH, ECU",
+"2",
+"Hunter's hands. The husk tears and masa squeezes out everywhere",
+"Comic squelch",
+"e03:12"
+],
+[
+"11a",
+"Kitchen",
+"MCU",
+"4",
+"Lupe grabs his wrist and turns his hand palm up, like evidence",
+"LUPE: \"Look at these hands. Soft. Office hands.\"",
+"e03:13a"
+],
+[
+"11b",
+"Kitchen",
+"CU (reaction)",
+"6",
+"Hunter, masa on his fingers, listening, then looking up, already scraping it off",
+"LUPE (O.S.): \"Too much masa. It all falls apart.\" HUNTER: \"Sorry— I'll fix it.\" LUPE (O.S.): \"Don't fix. Do again.\"",
+"e03:13b"
+],
+[
+"12",
+"Kitchen",
+"CU",
+"3",
+"Hunter freezes. \"It all falls apart\" lands somewhere",
+"HUNTER (V.O.): \"Two hundred jobs. One signature.\"",
+"e03:14"
+],
+[
+"13a",
+"Kitchen",
+"MS",
+"4",
+"Abby bumps his shoulder with hers, grinning",
+"ABBY: \"She's been yelling at me since I was six.\"",
+"e03:15a"
+],
+[
+"13b",
+"Kitchen",
+"MCU (reverse)",
+"5",
+"Lupe, hands on hips, her eyes moving from his hands to his face as he watches Abby",
+"LUPE (V.O.): \"Soft hands. But he looks at her like I looked at Rogelio.\"",
+"e03:15b"
+],
+[
+"14",
+"Kitchen",
+"HH montage",
+"3",
+"Abby's hands over his, guiding a fold, then a tie. A lopsided tamale (hero prop). Flour on his navy quarter-zip",
+"ABBY: \"Fold. Tuck. Don't strangle it.\"",
+"e03:16"
+],
+[
+"15a",
+"Steamer",
+"MS (the turn, long take)",
+"6",
+"Shoulder to shoulder on stools by the steamer, steam rolling between them and the lens",
+"ABBY: \"My mom took this class. Before her stand on 18th.\" HUNTER: \"What made her do it?\"",
+"e03:17a"
+],
+[
+"15b",
+"Steamer",
+"MCU (reverse)",
+"7",
+"Abby, soft, laughing at the memory",
+"ABBY: \"Honestly? Broke, bored, and it was twenty bucks.\" (laughs) \"Fed the whole block for years off it.\"",
+"e03:17b"
+],
+[
+"16",
+"Steamer",
+"CU",
+"4",
+"Hunter looks down at his floury hands",
+"HUNTER: \"I've never made anything. Like… with my hands.\"",
+"e03:18"
+],
+[
+"17",
+"Steamer",
+"INS",
+"5",
+"His messenger bag on the next stool, flour-dusted. The corner of the tablet peeks out: *WAVE 1 · 4TH FLOOR*",
+"Cold drone, under the guitar · HUNTER (V.O.): \"Her whole world is in this room. And it's in my bag.\"",
+"new: dark canvas messenger bag on a wooden stool in a cobalt-tiled tamale kitchen, flour-dusted, a tablet corner showing WAVE 1 4TH FLOOR, warm steam light"
+],
+[
+"18a",
+"Steamer",
+"CU",
+"4",
+"Abby holds up his steamed tamale like a trophy",
+"ABBY: \"Well. You made this.\" (beat) \"It's hideous.\"",
+"e03:19a"
+],
+[
+"18b",
+"Steamer",
+"MCU (reverse)",
+"3",
+"Hunter, laughing at it",
+"HUNTER: \"It's so hideous.\" ABBY (O.S.): \"I love it.\"",
+"e03:19b"
+],
+[
+"18c",
+"Steamer",
+"CU",
+"3",
+"Back on Abby, the smile catching in her throat",
+"ABBY (V.O.): \"'I love it.' Very chill, Reyes.\"",
+"e03:19a"
+],
+[
+"19",
+"Kitchen",
+"MS",
+"4",
+"Hunter stands up a little too loud, one masa hand raised; the class turns",
+"HUNTER: \"Aguas frescas! For everyone. On me.\" LUPE: \"¡Eso!\"",
+"e03:20"
+],
+[
+"20",
+"Front counter",
+"INS",
+"2",
+"A black card taps the reader. DECLINED",
+"Error buzz",
+"e03:21"
+],
+[
+"21",
+"Front counter",
+"MCU",
+"3",
+"His phone rings. Masa on both hands, he elbows it and it goes on speaker",
+"Ringtone · HUNTER (V.O.): \"No. No no no.\"",
+"e03:22"
+],
+[
+"22a",
+"Front counter",
+"INS",
+"4",
+"The phone face up on the counter, masa smeared on the glass",
+"BANK (on speaker): \"Fraud desk, calling for Mr. Cole.\"",
+"e03:23a"
+],
+[
+"22b",
+"Front counter",
+"MS (reaction)",
+"4",
+"The whole room frozen mid-motion, every head turned to the phone",
+"BANK (on speaker): \"Mr. Cole, did you authorize thirty-eight dollars at Masa Mía?\"",
+"e03:23b"
+],
+[
+"23",
+"Kitchen",
+"CU",
+"4",
+"Abby, flour on her cheek, smile gone, eyes narrowing. Freeze",
+"ABBY: \"…Who's Mr. Cole?\" Cut to black · *Episode 3 of 10*",
+"e03:25"
+]
+],
+"4": [
+[
+"1",
+"Supply closet (flash-forward)",
+"MS",
+"4",
+"Hunter wedged between mop buckets and shelves of paper towels, laptop balanced on a bucket, earbuds in, typing fast. On screen: *Monday*",
+"HUNTER (V.O.): \"Hiding from my own company. In a closet.\"",
+"new: Hunter in a navy quarter-zip wedged into a cramped office supply closet between mop buckets and paper-towel shelves, laptop on an upturned bucket, earbuds, blue screen glow, one bare bulb"
+],
+[
+"2",
+"Masa Mía (recap)",
+"CU",
+"3",
+"Abby, flour on her cheek, eyebrows up. On screen: *Saturday*",
+"ABBY: \"…Who's Mr. Cole?\"",
+"e04:1"
+],
+[
+"3a",
+"Masa Mía",
+"MCU",
+"5",
+"Hunter, masa on his fingers, talking too fast",
+"HUNTER: \"Cole's a— family name. It's complicated. It's my dad's card.\"",
+"e04:2a"
+],
+[
+"3b",
+"Masa Mía",
+"CU (reaction)",
+"4",
+"Abby, lips pressed together, one eyebrow climbing",
+"HUNTER (O.S.): \"He's… a lot.\" ABBY (V.O.): \"Lie number one. I'm counting.\"",
+"e04:2b"
+],
+[
+"4a",
+"Masa Mía",
+"CU",
+"5",
+"Abby, studying him, then the start of a slow smile",
+"ABBY: \"Your dad's fraud team called about a tamale.\"",
+"e04:4a"
+],
+[
+"4b",
+"Masa Mía",
+"MCU (reverse)",
+"3",
+"Hunter, fighting to keep a straight face",
+"HUNTER: \"He's very thorough.\" ABBY (O.S.): \"Clearly.\"",
+"e04:4b"
+],
+[
+"5",
+"Penthouse, night",
+"MCU",
+"4",
+"The cookware finally out of its plastic. A lumpy tamale on a plate beside the new pot. His phone lights up and he laughs, alone in the huge room",
+"Text from ABBY: *lupe says ur tamale is \"brave\"* · HUNTER (V.O.): \"Brave. That makes one of us.\"",
+"e04:6"
+],
+[
+"6",
+"4th floor, Monday",
+"MS",
+"3",
+"Rows of desks, sad clamshell salads, everyone facing the wall screen. Next to Abby, Hunter's chair is empty and slowly turning. On screen: *Monday. All-hands.*",
+"ABBY (V.O.): \"Bathroom? For twenty minutes?\"",
+"e04:8"
+],
+[
+"7",
+"Supply closet",
+"CU",
+"4",
+"Hunter in the laptop glow, a mop handle leaning on his shoulder",
+"PRIYA (O.S., in his earbuds): \"Our CEO is joining remotely. Camera off.\"",
+"new: close-up of Hunter in a dark supply closet, earbuds in, face lit blue by a laptop, a mop handle resting against his shoulder, one bare bulb behind"
+],
+[
+"8a",
+"4th floor",
+"INS (screen)",
+"3",
+"The wall screen: one tile is a black square, *CEO · camera off*. A chat line types itself: *Hi all. Bad connection, sorry.*",
+"Keyboard clatter, far off",
+"e04:9a"
+],
+[
+"8b",
+"4th floor",
+"CU",
+"4",
+"Abby, fork in her salad, skeptical",
+"ABBY (V.O.): \"Four years. Never seen his face. Bad connection, my butt.\"",
+"e04:9b"
+],
+[
+"9",
+"Supply closet",
+"CU",
+"3",
+"His phone buzzes loud against a metal shelf. He lunges and smothers it",
+"Buzz. Text from ABBY: *where r u. ceo is a black square lol* · HUNTER (V.O.): \"I'm the black square.\"",
+"as 7"
+],
+[
+"10",
+"4th floor",
+"INS (screen)",
+"3",
+"The chat types: *Q&A. Let's hear from the 4th floor.*",
+"PRIYA (O.S., on screen): \"Oh. Um. Abby? Product Design?\"",
+"e04:9a"
+],
+[
+"11a",
+"4th floor",
+"CU",
+"6",
+"Abby, caught, the whole row turning to her. Then she squares up and gestures at the room with her fork",
+"ABBY: \"Me? Okay. Honestly? We get paid fine. But nobody goes anywhere.\"",
+"e04:12a"
+],
+[
+"11b",
+"Supply closet",
+"CU (reaction)",
+"5",
+"Cutaway to Hunter in the closet, earbuds in, very still",
+"ABBY (O.S., in his earbuds): \"Everybody eats at their desk. It's kind of sad.\"",
+"as 7"
+],
+[
+"12",
+"Supply closet",
+"CU",
+"4",
+"Hold on Hunter. He looks at his own black square on the laptop",
+"HUNTER (V.O.): \"She's talking to me. She has no idea.\"",
+"as 7"
+],
+[
+"13",
+"4th floor",
+"CU",
+"3",
+"Abby reads the chat as it lands: *Thank you, Abby. Noted.* She swivels, delighted and scandalized",
+"ABBY (V.O.): \"The CEO knows my name. Okay. Okay!\"",
+"e04:22"
+],
+[
+"14",
+"4th floor",
+"INS (screen)",
+"5",
+"Grant's tile jumps to full screen, smooth and smiling",
+"GRANT (O.S., on screen): \"Thanks, Abby. Great segue. Starting Friday, an efficiency review. Design goes first.\"",
+"e04:9a"
+],
+[
+"15",
+"Supply closet",
+"CU",
+"4",
+"Hunter's hand stops over the keyboard",
+"HUNTER (V.O.): \"Friday? I said two weeks.\"",
+"as 7"
+],
+[
+"16",
+"4th floor",
+"CU",
+"4",
+"Abby's fork sinks slowly into the salad",
+"ABBY (V.O.): \"They froze my review. For this. Friday.\"",
+"e04:9b"
+],
+[
+"17",
+"4th floor, later",
+"MS (diagonal)",
+"4",
+"Hunter slides back into his chair, paper-towel lint on his shoulder",
+"ABBY: \"Where were you?\" HUNTER: \"Copier.\" ABBY: \"We don't have a copier.\"",
+"e04:10"
+],
+[
+"18",
+"4th floor",
+"CU",
+"4",
+"Hunter, very still. Abby's look lingers on him",
+"ABBY (V.O.): \"Not counting that one. I don't have the energy.\"",
+"e04:11b"
+],
+[
+"19",
+"4th floor",
+"MCU",
+"5",
+"Abby rallies, peeling a yellow sticky note off a pad",
+"ABBY: \"Friday they review us. Tonight I need something to look forward to.\"",
+"e04:14"
+],
+[
+"20",
+"4th floor",
+"INS",
+"2",
+"She writes: *float spa · kayaks?? · pottery*",
+"Marker squeak",
+"e04:15"
+],
+[
+"21",
+"4th floor",
+"INS",
+"2",
+"She slaps it onto his monitor",
+"Slap",
+"e04:16"
+],
+[
+"22",
+"4th floor",
+"MCU",
+"4",
+"Abby leans back, arms folded, pleased with herself",
+"ABBY: \"Pick one. No pressure. Huge pressure.\"",
+"e04:17"
+],
+[
+"23",
+"4th floor",
+"INS",
+"4",
+"His pen hovers over \"pottery\", then circles \"float spa\"",
+"HUNTER (V.O.): \"Phones off. Somewhere Grant can't find me.\" ABBY (O.S.): \"Look at you.\"",
+"e04:18"
+],
+[
+"24",
+"22nd floor",
+"INS",
+"3",
+"Grant's tablet: *CEO session · origin: FLOOR 4 · SUPPLY B*",
+"GRANT (V.O.): \"Floor four?\"",
+"new: tablet on black lacquer showing a login panel reading CEO SESSION ORIGIN FLOOR 4 SUPPLY B, a man's cufflinked hand beside it, cold light"
+],
+[
+"25",
+"Elevator bank",
+"WS, LO",
+"3",
+"The elevator opens on 4. Grant steps out and scans the floor",
+"Tension drone starts",
+"e04:19"
+],
+[
+"26",
+"4th floor",
+"MCU",
+"3",
+"Grant spots him. A thin smile that doesn't reach his eyes. He walks straight toward their desks",
+"GRANT (V.O.): \"Well, well.\"",
+"e04:21"
+],
+[
+"27",
+"4th floor",
+"CU",
+"4",
+"Hunter at his desk, frozen. Grant's shadow falls across the desk and the sticky note. Freeze",
+"Footsteps stop. Cut to black · *Episode 4 of 10*",
+"e04:23"
+]
+],
+"5": [
+[
+"1",
+"4th floor (recap)",
+"MCU",
+"3",
+"Grant stops at Hunter's desk and looks down at him, a thin smile that doesn't reach his eyes",
+"GRANT (V.O.): \"Well, well.\" GRANT: \"Hunter.\"",
+"e05:1"
+],
+[
+"2",
+"4th floor",
+"MS",
+"4",
+"Hunter rises a little too fast, the yellow sticky note on his monitor behind him",
+"HUNTER: \"Grant. Hey. Hunter, from Ops. We met at… onboarding.\"",
+"e05:2"
+],
+[
+"3a",
+"4th floor",
+"MS",
+"3",
+"Hunter steps in close and drops his voice so the desks can't hear",
+"HUNTER: \"Culture audit. Board's idea. Keep it quiet.\"",
+"e05:2"
+],
+[
+"3b",
+"4th floor",
+"CU, LOW angle",
+"4",
+"Grant clocks it. His smile doesn't move a millimeter",
+"GRANT: \"Right. Ops.\" GRANT (V.O.): \"Liar. The board doesn't have ideas. I do.\"",
+"e05:3"
+],
+[
+"4",
+"4th floor",
+"MCU",
+"4",
+"Grant, already half-turned, buttoning his jacket, says it loud enough for the whole row",
+"GRANT: \"Swing by twenty-two later. Let's talk about your… department.\"",
+"e05:4"
+],
+[
+"5a",
+"4th floor",
+"ECU",
+"3",
+"Abby, eyes huge, hoop catching the light",
+"ABBY: \"Twenty-two?! What did you do?\"",
+"e05:5"
+],
+[
+"5b",
+"4th floor",
+"ECU",
+"2",
+"The watch twist",
+"HUNTER: \"Spreadsheet thing.\"",
+"e04:3"
+],
+[
+"6",
+"Drift entrance",
+"WS",
+"2",
+"Glass-to-brick match cut. The two of them walk up to the glowing frosted door. On screen: *Saturday. Wicker Park.*",
+"Ambient hum",
+"e05:6"
+],
+[
+"7",
+"Locker room",
+"INS",
+"3",
+"Hunter's phone buzzes in his hand: *GRANT*",
+"Buzz · ABBY (V.O.): \"Who calls on a Saturday?\"",
+"e05:8"
+],
+[
+"8a",
+"Locker room",
+"MCU",
+"4",
+"Abby holds the locker door open, eyebrows up",
+"ABBY: \"Phone. In. Everything'll still be on fire in an hour.\"",
+"e05:9"
+],
+[
+"8b",
+"Locker room",
+"Same angle (cont.)",
+"3",
+"Hold on Hunter",
+"HUNTER (V.O.): \"You have no idea what's on fire.\"",
+"e05:9"
+],
+[
+"9",
+"Locker room",
+"ECU",
+"2",
+"His fingers hesitate on the buckle, then unstrap the watch and set it beside the phone. The door swings shut on them",
+"The click of the locker",
+"e05:10"
+],
+[
+"10",
+"Float room",
+"ECU",
+"4",
+"His bare wrist on the water, a pale tan line. The fingers twitch for a watch that isn't there",
+"HUNTER (V.O.): \"Nothing to twist. Huh.\" (beat) \"When'd I last hear myself breathe?\"",
+"e05:13"
+],
+[
+"11",
+"Cedar sauna",
+"MS (diagonal)",
+"2",
+"Steam and amber light, the two of them on the upper bench",
+"Soft piano returns · ABBY: \"See? You didn't die.\"",
+"e05:14"
+],
+[
+"12",
+"Sauna",
+"CU",
+"4",
+"Abby turns to him, chin on her hand, a gentle challenge",
+"ABBY: \"Okay, Ops. Happiest you've been all year. Go.\"",
+"e05:16"
+],
+[
+"13",
+"Sauna",
+"CU",
+"3",
+"Hunter looks at her a long beat. The beginning of a real smile",
+"HUNTER: \"…This is pretty close.\"",
+"e05:17"
+],
+[
+"14",
+"Sauna",
+"CU",
+"3",
+"Abby, caught off guard, finds the coals very interesting",
+"ABBY (V.O.): \"Don't blush. It's a sauna. It's allowed.\"",
+"e05:16"
+],
+[
+"15a",
+"Sauna",
+"MCU",
+"3",
+"Abby deflects with a grin",
+"ABBY: \"This was eighty-nine bucks. For two.\"",
+"e05:18"
+],
+[
+"15b",
+"Sauna",
+"MCU (reverse)",
+"4",
+"Reverse on Hunter, deadpan, a smile tugging",
+"HUNTER: \"Then I'm a cheap date.\" ABBY (O.S.): \"You eat chalk. I know.\"",
+"e05:18"
+],
+[
+"16a",
+"Sauna",
+"CU",
+"6",
+"Abby, quieter now, hugging her knees, looking at the coals instead of at him. The turn belongs to her",
+"ABBY (V.O.): \"Why am I telling him this?\" ABBY: \"Can I tell you something? Not weird. Just… real.\"",
+"e05:20"
+],
+[
+"16b",
+"Sauna",
+"CU (reaction)",
+"5",
+"Cutaway to Hunter, the laughter fading off his face",
+"ABBY (O.S.): \"When I was twelve, my dad got laid off. Twenty-two years.\"",
+"e05:20"
+],
+[
+"16c",
+"Sauna",
+"CU",
+"5",
+"Back on Abby, a small laugh that isn't one",
+"ABBY: \"Fifteen-minute meeting. They gave him a box and a parking validation.\"",
+"e05:20"
+],
+[
+"16d",
+"Sauna",
+"CU (reaction)",
+"4",
+"Hunter goes very still",
+"HUNTER (V.O.): \"Fifteen minutes. I've run those meetings.\"",
+"e05:20"
+],
+[
+"16e",
+"Sauna",
+"CU",
+"6",
+"Abby, eyes on the coals",
+"ABBY: \"For a month he still put his boots on. Every morning. Sat in the truck.\"",
+"e05:20"
+],
+[
+"16f",
+"Sauna",
+"CU (reaction)",
+"5",
+"Cutaway to Hunter, listening, while Abby keeps talking (O.S.)",
+"ABBY (O.S.): \"He had a Lisbon jar. For my abuela. It paid the light bill.\"",
+"e05:20"
+],
+[
+"17a",
+"Sauna",
+"PUSH, CU",
+"5",
+"A slow push on Hunter, the smile gone, sweat on his brow",
+"ABBY (O.S.): \"The guy who signed it probably never even knew his name.\"",
+"e05:21"
+],
+[
+"17b",
+"Sauna",
+"Same angle (cont.)",
+"3",
+"He draws a breath to confess. The piano drops out",
+"HUNTER: \"Abby. I—\"",
+"e05:21"
+],
+[
+"18",
+"Sauna",
+"CU",
+"5",
+"Abby wipes her eye with the towel, blames the steam with a shrug, and shakes it off, glancing back at him with a small smile",
+"ABBY: \"Anyway. That's why I send money home.\" (beat, softer) \"You'd never do that. To people.\"",
+"e05:22"
+],
+[
+"19",
+"Sauna",
+"CU",
+"3",
+"Hunter, one beat too long",
+"HUNTER: \"…No.\" HUNTER (V.O.): \"Liar.\"",
+"e05:17"
+],
+[
+"20",
+"Locker room",
+"INS",
+"2",
+"The locker swings open: the watch and the phone, screen already lit",
+"A heartbeat of sub-bass",
+"e05:23"
+],
+[
+"21",
+"Locker room",
+"INS",
+"3",
+"The phone in his hand: *14 missed calls*, then PRIYA: *board vote moved to TOMORROW. grant has the numbers.*",
+"Buzz. Buzz.",
+"e05:24"
+],
+[
+"22",
+"Locker room",
+"INS",
+"4",
+"His bare thumb hunts his bare wrist for the watch",
+"HUNTER (V.O.): \"Two weeks, I said. He gave me one night.\"",
+"e05:24"
+],
+[
+"23",
+"Locker room",
+"OTS on Hunter",
+"4",
+"Abby behind him in a white robe, damp hair, reading the screen over his shoulder. Freeze",
+"ABBY: \"…Board vote?\" Cut to black · *Episode 5 of 10*",
+"e05:25"
+]
+],
+"6": [
+[
+"1",
+"Locker room (recap)",
+"OTS",
+"3",
+"Abby just behind his shoulder, damp hair under the mustard beanie, reading the screen",
+"ABBY: \"…Board vote?\"",
+"e06:1"
+],
+[
+"2",
+"Locker room",
+"MCU",
+"5",
+"Hunter turns, pockets the phone a little too fast, forces an easy smile",
+"HUNTER: \"My dad's. Family business. He makes me vote on stuff.\"",
+"e06:2"
+],
+[
+"3a",
+"Locker room",
+"CU",
+"4",
+"Abby leans a shoulder on the lockers, arms folded, one eyebrow up",
+"ABBY: \"Your dad has a lot of departments.\" HUNTER (O.S.): \"He really does.\"",
+"e06:3"
+],
+[
+"3b",
+"Locker room",
+"Same angle (cont.)",
+"4",
+"Hold on Abby, a dry half-smile",
+"ABBY (V.O.): \"That's not a lie. That's a lie wearing a hat.\"",
+"e06:3"
+],
+[
+"4",
+"Locker room",
+"ECU",
+"3",
+"The steel watch buckled back on",
+"Click · HUNTER (V.O.): \"Nine a.m. Grant's already counted the votes.\"",
+"e06:4"
+],
+[
+"5",
+"Penthouse, 2 a.m.",
+"MCU",
+"3",
+"Hunter awake on the concrete floor, lit cold blue. He shuts the laptop on the board deck and smooths out a crumpled yellow sticky note in Abby's handwriting, *float spa* circled. On screen: *2:14 AM*",
+"HUNTER (V.O.): \"Float spa. Kayaks. Pottery.\"",
+"e06:6"
+],
+[
+"6",
+"Penthouse",
+"POV (App Glow)",
+"3",
+"He opens Groupon for the first time and scrolls *Things to do near you* slowly, reading every price",
+"Slow taps · HUNTER (V.O.): \"So this is where she finds everything.\"",
+"e06:7"
+],
+[
+"7",
+"Penthouse",
+"INS",
+"3",
+"The deal card: *Sunset Kayak Tour · $45 per person · Lakeshore Paddle Co.*",
+"Soft shimmer · HUNTER (to himself, almost laughing): \"Forty-five.\"",
+"e06:8"
+],
+[
+"8",
+"Penthouse",
+"CU",
+"3",
+"Lying back, phone above his face, a small smile. He taps *Buy for 2*",
+"The deal \"ding,\" his first · HUNTER (V.O.): \"My first one. Don't tell anyone.\"",
+"e06:9"
+],
+[
+"9",
+"Penthouse",
+"INS",
+"3",
+"Texts",
+"HUNTER: *free tmrw at 6? my treat. i found it myself* · ABBY: *who is this and what have u done w hunter*",
+"e06:10"
+],
+[
+"10",
+"Dock, golden hour",
+"INS",
+"3",
+"Hunter's phone in his hand above the weathered dock: PRIYA: *emergency vote passed 5–2. it's on your desk. signature by friday.*",
+"A hit of sub-bass under the gulls",
+"new: a man's hand in an olive overshirt cuff holding a phone (green screen) above a weathered wooden dock, golden lake water behind"
+],
+[
+"11",
+"Dock",
+"WS, push-in",
+"4",
+"Two kayaks, yellow 7 and red 8, slide off the dock; the Guide with a clipboard. On screen: *Sunday. Lake Michigan.*",
+"GUIDE: \"You two the Groupon booking? Seven and eight.\" Music up",
+"e06:11"
+],
+[
+"12",
+"Open lake",
+"HH",
+"3",
+"His paddle stroke sheets spray straight onto Abby",
+"ABBY: \"Oh, you're dead.\" HUNTER: \"Accident!\" ABBY: \"So's this!\" Splash war, shrieking",
+"e06:12"
+],
+[
+"13",
+"Open lake",
+"MS (diagonal)",
+"2",
+"Drifting side by side, paddles across their laps, soaked and grinning",
+"Water lapping",
+"e06:14"
+],
+[
+"14a",
+"Open lake",
+"MCU (the turn)",
+"5",
+"Abby, chin on her paddle, curious",
+"ABBY: \"Dumbest thing you ever spent money on. Go.\" HUNTER (O.S.): \"Uh— you first.\"",
+"e06:15"
+],
+[
+"14b",
+"Open lake",
+"CU (reaction)",
+"3",
+"Hunter, caught",
+"HUNTER (V.O.): \"A jet. Do not say a jet.\"",
+"e06:15"
+],
+[
+"14c",
+"Open lake",
+"MCU (reverse)",
+"5",
+"Abby, laughing at herself, a hand over her eyes",
+"ABBY: \"Four hundred bucks. Concert. Left after three songs. You?\"",
+"e06:15"
+],
+[
+"14d",
+"Open lake",
+"MCU (reverse)",
+"4",
+"Hunter looks down at the water, sheepish",
+"HUNTER: \"…Bought a whole set of pans once. Never opened 'em.\"",
+"e06:15"
+],
+[
+"14e",
+"Open lake",
+"Same angle (cont.)",
+"4",
+"Hold on Hunter, a beat, then the confession",
+"ABBY (O.S.): \"That's so sad.\" HUNTER: \"I opened them. Last week.\"",
+"e06:15"
+],
+[
+"15",
+"Open lake",
+"CU",
+"4",
+"Abby, the penny dropping, a slow soft smile",
+"ABBY (V.O.): \"He made Lupe's tamales. Alone. I'm in trouble.\"",
+"e06:16"
+],
+[
+"16a",
+"Open lake",
+"MCU",
+"3",
+"Hunter, gentle and curious",
+"HUNTER: \"Your dad's jar. Lisbon. How full?\"",
+"e06:17"
+],
+[
+"16b",
+"Open lake",
+"MCU (reverse)",
+"4",
+"Abby holds her hands apart to show the jar, amused at herself",
+"ABBY: \"A literal jar. Half-ish. I'm taking him. For my abuela.\"",
+"e06:17"
+],
+[
+"16c",
+"Open lake",
+"Same angle (cont.)",
+"4",
+"Her smile fades; her eyes go to the horizon",
+"ABBY: \"She never got to go. So he will.\"",
+"e06:17"
+],
+[
+"17a",
+"Open lake",
+"CU",
+"3",
+"Hunter, careful, his watch hand resting on the paddle",
+"HUNTER: \"What if somebody just… covered it?\"",
+"e06:18"
+],
+[
+"17b",
+"Open lake",
+"MCU (reverse)",
+"3",
+"Abby, gentle but sure, a small shake of the head",
+"ABBY: \"Then it'd be their trip.\"",
+"e06:18"
+],
+[
+"17c",
+"Open lake",
+"CU (reaction)",
+"3",
+"Cutaway to Hunter, the offer dying in his throat, while Abby keeps talking (O.S.)",
+"ABBY (O.S.): (beat) \"I want it to be mine.\"",
+"e06:18"
+],
+[
+"18",
+"Open lake",
+"PUSH, CU",
+"5",
+"It lands on Hunter. Sunset rim light",
+"Piano, one note · HUNTER (V.O.): \"Okay. No list. No signature. Whatever it costs me.\"",
+"e06:19"
+],
+[
+"19",
+"Open lake",
+"ECU",
+"2",
+"Hands reach across the gap between the kayaks; fingers link",
+"—",
+"e06:20"
+],
+[
+"20",
+"Open lake",
+"MS",
+"3",
+"The kayaks nudge together. They lean in—",
+"Breath · ABBY (V.O.): \"Kiss the project, Reyes.\"",
+"e06:21"
+],
+[
+"21",
+"Open lake",
+"WS",
+"3",
+"A yacht horn blasts. A white party boat with string lights glides between them and the dock",
+"Horn, bass-heavy music",
+"e06:22"
+],
+[
+"22",
+"Dock",
+"WS",
+"3",
+"They paddle in beside the moored yacht, tiny and soaked against its hull",
+"HUNTER (V.O.): \"Please don't be who I think.\"",
+"e06:23"
+],
+[
+"23",
+"Dock",
+"MS, LOW angle",
+"2",
+"Celeste steps off the gangway: champagne, white linen, sunglasses",
+"—",
+"e06:24"
+],
+[
+"24",
+"Dock",
+"MCU",
+"3",
+"She glances down at the kayaks. A flicker of recognition",
+"CELESTE (V.O.): \"No. Way.\" Music cuts",
+"e06:25"
+],
+[
+"25",
+"Dock",
+"CU",
+"6",
+"Celeste slowly lowers her sunglasses, an amused, slightly cruel smile, flute at her chin. Freeze",
+"CELESTE: \"Hunter Cole. In a rental kayak.\" (beat) \"Does your board know?\" Cut to black · *Episode 6 of 10*",
+"e06:26"
+]
+],
+"7": [
+[
+"1",
+"Dock (recap)",
+"CU",
+"3",
+"Celeste, sunglasses at the tip of her nose, flute at her chin",
+"CELESTE: \"Does your board know?\"",
+"e07:1"
+],
+[
+"2",
+"Dock",
+"MCU",
+"3",
+"Hunter gripping the dock edge from his kayak, hair wet, a frozen polite smile",
+"HUNTER (V.O.): \"Not here. Not now.\" HUNTER: \"Celeste. Hi.\"",
+"e07:2"
+],
+[
+"3a",
+"Dock",
+"MS (three-shot)",
+"4",
+"Abby climbs out of her kayak, looking between them",
+"ABBY: \"You two… know each other?\" CELESTE: \"We dated.\"",
+"e07:3"
+],
+[
+"3b",
+"Dock",
+"CU (reaction)",
+"4",
+"Cutaway to Abby, her smile going still, while Celeste keeps talking (O.S.)",
+"CELESTE (O.S.): \"He took me to Paris. Answered emails the whole time.\"",
+"e07:3"
+],
+[
+"3c",
+"Dock",
+"CU (reaction)",
+"4",
+"Cutaway to Hunter, wincing. Celeste's linen sweeps out of frame as she strolls off",
+"CELESTE (O.S.): \"This is cute, though.\" CELESTE (V.O.): \"She has no idea. Delicious.\"",
+"e07:3"
+],
+[
+"4a",
+"Dock",
+"CU",
+"4",
+"Abby, dripping, arms folded against the breeze, piecing it together",
+"ABBY: \"She called you Hunter Cole.\" HUNTER (O.S.): \"…That's my name.\"",
+"e07:4"
+],
+[
+"4b",
+"Dock",
+"MCU (reverse)",
+"4",
+"Abby takes a careful half-step back",
+"ABBY: \"Like the bank. 'Mr. Cole, did you authorize…'\"",
+"e07:4"
+],
+[
+"5",
+"Dock",
+"ECU",
+"3",
+"The watch twist, damp olive cuff",
+"HUNTER: \"It's— yeah. It's a family name.\"",
+"e07:5"
+],
+[
+"6",
+"Dock",
+"CU, push-in",
+"3",
+"Abby gives a small nod as the gold drains to blue. She doesn't push",
+"ABBY (V.O.): \"Same excuse. Lie number two.\"",
+"e07:6"
+],
+[
+"7",
+"22nd floor boardroom",
+"WS, LO (symmetrical)",
+"3",
+"Hunter in a charcoal suit jacket at the head of the black table, small against the dusk. His real seat. On screen: *Monday. 22nd floor.*",
+"Cold drone",
+"e07:7"
+],
+[
+"8a",
+"Boardroom",
+"MCU, LOW angle",
+"5",
+"Grant at the side of the table, one hand flat on it, tablet in the other",
+"GRANT: \"Board approved it Sunday. Wave one. Fourth floor. Your signature by Friday.\"",
+"e07:8"
+],
+[
+"8b",
+"Boardroom",
+"CU (reaction)",
+"4",
+"Hunter at the head of the table, jaw set",
+"HUNTER: \"I'm not signing it.\"",
+"e07:8"
+],
+[
+"9a",
+"Boardroom",
+"MCU",
+"6",
+"Grant leans in over Hunter's shoulder, soft behind him, almost kind",
+"GRANT (V.O.): \"There it is.\" GRANT: \"Then the board signs it. With a CEO who will.\"",
+"e07:9"
+],
+[
+"9b",
+"Boardroom",
+"MCU (Grant single)",
+"4",
+"Grant straightens, smiling",
+"GRANT: \"Where do you go all day, Hunter? Fourth floor?\"",
+"e07:9"
+],
+[
+"10",
+"Boardroom",
+"INS",
+"5",
+"Grant's finger scrolls the list and stops on a highlighted line: *REYES, ABBY · Product Designer*. Beside the tablet he lays a glossy print: Hunter and Abby laughing on the kayak dock",
+"Heartbeat sub-bass · GRANT (O.S.): \"Say hi to Ms. Reyes. Cute photos from the lake, by the way.\"",
+"new: tablet on black lacquer highlighting REYES, ABBY Product Designer on a list, a glossy photo print beside it of a couple laughing on a lake dock at sunset"
+],
+[
+"11",
+"Boardroom",
+"ECU",
+"3",
+"The watch on a charcoal cuff, knuckles white on black lacquer",
+"HUNTER (V.O.): \"He put her on it. By name.\"",
+"e07:11"
+],
+[
+"12a",
+"4th floor",
+"MCU, LOW angle",
+"5",
+"Her team huddles, whispering, phones out. Abby climbs onto a rolling chair, one hand on a monitor",
+"ABBY: \"Okay. Everybody's spiraling. Nobody's getting fired before Friday. So, Thursday?\"",
+"e07:13"
+],
+[
+"12b",
+"4th floor",
+"CU (reaction)",
+"2",
+"Cutaway to the team, looking up at her, unsure",
+"ABBY (O.S.): \"We're going out.\"",
+"e07:13"
+],
+[
+"13a",
+"4th floor",
+"MCU",
+"5",
+"Abby, still on the chair, scrolling her phone, a grin coming back",
+"ABBY: \"Improv. Old Town. Six of us, like ten bucks each.\"",
+"e07:14"
+],
+[
+"13b",
+"4th floor",
+"CU (reaction)",
+"4",
+"Cutaway to the team, arms crossed, one raised eyebrow behind round glasses",
+"TEAMMATE: \"Improv? Abby.\" ABBY (V.O.): \"Don't let them see your hands shake.\"",
+"e07:14"
+],
+[
+"13c",
+"4th floor",
+"MCU",
+"4",
+"Back on Abby, phone lowered, selling it with both hands",
+"ABBY: \"Can't panic and do improv at once. Venmo me. Science.\"",
+"e07:14"
+],
+[
+"14",
+"4th floor",
+"WS",
+"3",
+"The elevator opens. Hunter steps out with his messenger bag and sees them",
+"Music stops",
+"e07:16"
+],
+[
+"15a",
+"4th floor",
+"MCU",
+"4",
+"Abby at her desk, the Lisbon postcard behind her, guarded since the dock, then softening",
+"ABBY: \"You coming Thursday? You're kinda on the team now.\"",
+"e07:17"
+],
+[
+"15b",
+"4th floor",
+"MCU (reverse)",
+"3",
+"Hunter, bag strap gripped in one hand",
+"HUNTER: \"…Yeah. I'll be there.\"",
+"e07:17"
+],
+[
+"15c",
+"4th floor",
+"Same angle as 16a",
+"3",
+"Back on Abby, turning to her screen, a smile she didn't plan",
+"ABBY (V.O.): \"Two lies. Still saved him a seat.\"",
+"e07:17"
+],
+[
+"16",
+"4th floor",
+"CU",
+"3",
+"Hunter smiling at her, the corner of the black tablet in the open flap of his bag",
+"HUNTER (V.O.): \"On the team. On the list.\"",
+"e07:18"
+],
+[
+"17",
+"CEO office, night",
+"WS",
+"3",
+"Hunter alone at a bare black desk in the black-glass corner office, the skyline cold behind him",
+"Silence",
+"e07:19"
+],
+[
+"18",
+"CEO office",
+"INS",
+"2",
+"The document under the lamp: *RESTRUCTURE · WAVE 1*, a yellow *Sign here* flag",
+"—",
+"e07:20"
+],
+[
+"19a",
+"CEO office",
+"MS",
+"5",
+"Priya in the doorway, coat on, tablet against her chest",
+"PRIYA: \"You don't have to sign it tonight.\" HUNTER (O.S.): \"I know.\"",
+"e07:21"
+],
+[
+"19b",
+"CEO office",
+"Same angle (cont.)",
+"3",
+"Priya lingers a beat, then goes",
+"PRIYA (V.O.): \"Eight years. Never seen him scared.\"",
+"e07:21"
+],
+[
+"20",
+"CEO office",
+"ECU, PUSH",
+"5",
+"The pen nib lowers toward the signature line, the steel watch on the wrist above it",
+"Rising tone · HUNTER (V.O.): \"Don't sign, Grant signs. And he won't stop at two hundred.\"",
+"e07:22"
+],
+[
+"21",
+"CEO office",
+"CU",
+"4",
+"Hunter's eyes, lit from below, unreadable. Below frame, a single drop of ink hits the signature line. Freeze",
+"The tick of one drip. Tone cuts. Cut to black · *Episode 7 of 10*",
+"e07:23"
+]
+],
+"8": [
+[
+"1",
+"CEO office (recap)",
+"CU",
+"3",
+"The pen hovering over the signature line",
+"HUNTER (V.O.): \"Sign it. Two hundred names.\" Rising tone",
+"e08:1"
+],
+[
+"2",
+"CEO office",
+"ECU",
+"2",
+"He caps it",
+"Click · HUNTER (V.O.): \"Not tonight.\"",
+"e08:2"
+],
+[
+"3",
+"CEO office",
+"MS",
+"5",
+"He slides the page into the deck, and the deck into his bag",
+"PRIYA (O.S.): \"Signatures are due tomorrow. Grant's asking where you go.\" HUNTER: \"Improv.\" PRIYA (O.S.): \"…Okay then.\"",
+"e08:3"
+],
+[
+"4",
+"Exterior, Second Act Improv",
+"WS",
+"2",
+"A brick wall and a little marquee of chasing bulbs. On screen: *Thursday. Old Town.*",
+"Street noise, a laugh from inside",
+"e08:4"
+],
+[
+"5",
+"Door",
+"INS",
+"5",
+"Abby scans the group voucher on her phone",
+"The deal \"ding\" · HOST: \"Six on one Groupon? Love it.\" ABBY: \"Sixty bucks. Ten a head.\"",
+"e08:5"
+],
+[
+"6",
+"Theater",
+"HH, MS",
+"4",
+"A warm-up circle game. Hunter is hopeless, a full beat behind, and the team is cracking up",
+"TEAM: \"Zip! Zap! Hunter, it's ZOP!\" Laughter",
+"e08:6"
+],
+[
+"7",
+"Theater",
+"MCU",
+"4",
+"A teammate leans over to Abby",
+"TEAMMATE: \"Okay. This was a good call.\" ABBY: \"I know.\"",
+"e08:7"
+],
+[
+"8",
+"Theater",
+"INS",
+"3",
+"Her phone buzzes in her lap: *Promotion review · CANCELLED · Office of the COO*",
+"Buzz · ABBY (V.O.): \"Cancelled. Not postponed. Cancelled. Cool cool cool.\"",
+"new: phone in a lap in a dark theater, mustard-yellow case, notification reading Promotion review CANCELLED Office of the COO"
+],
+[
+"9a",
+"Theater",
+"CU two-shot",
+"5",
+"Abby turns to Hunter in the front row, the smile gone. His left hand finds the watch",
+"ABBY: \"You're Ops. Is something happening to us?\" HUNTER: \"…Not that I know of.\"",
+"e08:8b"
+],
+[
+"9b",
+"Theater",
+"Same angle (cont.)",
+"3",
+"Hold on Abby, eyes on his wrist, then away",
+"ABBY (V.O.): \"Watch twist. Lie number three?\"",
+"e08:8b"
+],
+[
+"10",
+"Theater",
+"WS",
+"5",
+"The instructor on stage, arms wide",
+"INSTRUCTOR: \"Last one! Two people. First date. One of you has a secret.\"",
+"e08:8a"
+],
+[
+"11",
+"Theater",
+"MS",
+"3",
+"The team shoves Hunter and Abby up out of their chairs",
+"INSTRUCTOR (O.S.): \"You two. Go!\" Whoops",
+"e08:9"
+],
+[
+"12",
+"Stage",
+"WS, single spotlight",
+"2",
+"The two of them in the light, his shadow huge on the brick",
+"Room hush",
+"e08:10"
+],
+[
+"13",
+"Stage",
+"MCU",
+"4",
+"Abby plays it big and flirty, chin on her hand",
+"ABBY: \"So. What do you do? Besides eat chalk?\"",
+"e08:11"
+],
+[
+"14",
+"Stage",
+"CU, PUSH (the turn)",
+"8",
+"Hunter. It's a bit, and it isn't",
+"HUNTER: \"I, uh— I own a company. A big one. And everybody who works there thinks I'm somebody else.\"",
+"e08:12"
+],
+[
+"15",
+"Theater",
+"WS (audience)",
+"3",
+"The crowd loves it; a teammate slaps a knee",
+"Big laugh · HUNTER (V.O.): \"The truth. As a joke. Coward.\"",
+"e08:13"
+],
+[
+"16",
+"Stage",
+"MCU",
+"5",
+"Abby stays in the scene, still grinning for the crowd, but she's searching his face",
+"ABBY: \"Oh yeah? A billionaire? And what happens when they find out?\"",
+"e08:14"
+],
+[
+"17a",
+"Stage",
+"CU",
+"3",
+"Hunter, quietly",
+"HUNTER: \"I think…\"",
+"e08:15a"
+],
+[
+"17b",
+"Stage",
+"CU (reaction)",
+"6",
+"Cutaway to Abby, listening, while Hunter keeps talking (O.S.)",
+"HUNTER (O.S., cont.): (beat) \"…the one person I actually like would stop looking at me like that.\"",
+"e08:15b"
+],
+[
+"17c",
+"Theater",
+"WS (audience)",
+"2",
+"The crowd melts",
+"AUDIENCE: \"Awww!\" Laughter",
+"e08:15c"
+],
+[
+"18",
+"Stage",
+"CU",
+"2",
+"Abby isn't laughing",
+"Half a second of silence under the laughter · ABBY (V.O.): \"That wasn't a bit.\"",
+"e08:16"
+],
+[
+"19",
+"Stage",
+"MS",
+"3",
+"The house lights come up; the instructor sweeps in between them",
+"INSTRUCTOR: \"And scene!\" Applause",
+"e08:17"
+],
+[
+"20a",
+"Bar after",
+"HH, MS",
+"4",
+"A teammate stands and raises a plastic cup",
+"TEAMMATE: \"To Abby. Who refuses to let us be sad.\"",
+"e08:18a"
+],
+[
+"20b",
+"Bar after",
+"WS",
+"4",
+"The whole table, cups up",
+"ALL: \"To Abby!\" HUNTER (V.O.): \"Tomorrow I sign their names. Or I don't.\"",
+"e08:18b"
+],
+[
+"21",
+"Bar",
+"MCU",
+"5",
+"Hunter stands, hanging his bag on the back of his chair, loose for the first time",
+"ABBY (O.S.): \"Billionaire, huh? Bold, for a chalk guy.\" HUNTER: \"I contain multitudes. Be right back.\"",
+"e08:19"
+],
+[
+"22",
+"Bar",
+"MS",
+"2",
+"A passing stranger clips the chair; the bag drops and papers slide out",
+"Thud",
+"e08:20"
+],
+[
+"23",
+"Bar",
+"MCU",
+"2",
+"Abby kneels to gather them, still smiling from the toast",
+"ABBY: \"Got it, got it—\"",
+"e08:21"
+],
+[
+"24",
+"Bar",
+"INS",
+"3",
+"The cover: *Q3 Restructure · Prepared for Hunter Cole, CEO*",
+"The bar noise starts to fade · ABBY (V.O.): \"Hunter… Cole.\"",
+"e08:22"
+],
+[
+"25",
+"Bar",
+"INS",
+"3",
+"A page flips: *Wave 1 · Product Design · ELIMINATE*, and below it, *Abby Reyes*",
+"Heartbeat sub-bass · ABBY (V.O.): \"That's my name.\"",
+"e08:23"
+],
+[
+"26",
+"Bar",
+"CU",
+"4",
+"Abby, completely still",
+"ABBY (V.O.): \"Family name. Ops. 'Not that I know of.'\"",
+"e08:24"
+],
+[
+"27",
+"Bar",
+"WS",
+"3",
+"Hunter walks back, still smiling, sees what's in her hands, and stops dead",
+"HUNTER (V.O.): \"No. No, no, no.\"",
+"e08:25"
+],
+[
+"28",
+"Bar",
+"CU",
+"4",
+"Abby looks up from the floor, the deck against her chest",
+"ABBY: \"…Mr. Cole?\" Freeze, cut to black · *Episode 8 of 10*",
+"e08:26"
+]
+],
+"9": [
+[
+"1",
+"Bar (recap)",
+"CU",
+"3",
+"Abby on the floor, the deck against her chest",
+"ABBY: \"…Mr. Cole?\"",
+"e09:1"
+],
+[
+"2",
+"Bar",
+"CU",
+"4",
+"Abby on her feet now, the open deck held up between them",
+"ABBY: \"Is my name on this?\" HUNTER (O.S.): \"I didn't sign it.\"",
+"e09:3"
+],
+[
+"3",
+"Bar",
+"CU",
+"4",
+"Tighter on Abby, flat, all the warmth gone. She drops the deck and turns for the door",
+"ABBY: \"That's not what I asked.\" ABBY (V.O.): \"Don't cry. Not here.\"",
+"e09:4"
+],
+[
+"4",
+"4th floor",
+"WS, LO",
+"2",
+"Abby's desk, empty. The mustard mug, the Lisbon postcard. On screen: *Friday.*",
+"The bar door bangs over the cut. Sparse piano · HUNTER (V.O.): \"Five o'clock. Unsigned.\"",
+"e09:6"
+],
+[
+"5a",
+"Apartment",
+"MCU",
+"5",
+"Jo on the couch, Abby curled up under a blanket beside her",
+"JO: \"You want me to hate him? I'm really good at it.\"",
+"e09:7a"
+],
+[
+"5b",
+"Apartment",
+"CU",
+"4",
+"Abby against Jo's shoulder, eyes red",
+"ABBY: \"I don't know what I want.\" ABBY (V.O.): \"Yes I do.\"",
+"e09:7c"
+],
+[
+"6",
+"Apartment",
+"INS",
+"3",
+"The fridge: the axe photo, a tamale class stub, a float receipt, a kayak wristband. Abby's hand takes the axe photo down… and puts it back",
+"JO (V.O.): \"Ugh. She put it back.\"",
+"e09:8"
+],
+[
+"7a",
+"CEO office",
+"MCU",
+"6",
+"Priya in the doorway, tablet against her chest. Behind her, Hunter, unshaven, in yesterday's shirt",
+"PRIYA: \"Deadline passed. And Grant knows about Abby. He's telling the board you're compromised.\"",
+"e09:10a"
+],
+[
+"7b",
+"CEO office",
+"CU",
+"5",
+"Hunter looks up. A beat. Something settles in him",
+"HUNTER: \"Good. Tell him it's not signed.\" PRIYA (O.S.): \"He'll go to the board.\" HUNTER: \"Let him.\"",
+"e09:10c"
+],
+[
+"8",
+"CEO office",
+"INS",
+"2",
+"His phone lights up. A text from JO: *she's at the pottery place on milwaukee. 7. the last one on her sticky note. dont make me regret this*",
+"Buzz · HUNTER (V.O.): \"Jo?\"",
+"e09:11"
+],
+[
+"9",
+"Kiln & Co.",
+"WS",
+"3",
+"Sunbeams and clay dust, rain on the windows. Abby alone at one wheel; the second wheel sits empty. On screen: *Logan Square.*",
+"ABBY (V.O.): \"Nonrefundable. That's the only reason I'm here.\"",
+"e09:13"
+],
+[
+"10",
+"Studio",
+"MCU",
+"3",
+"The instructor, kindly, glancing at the empty wheel",
+"INSTRUCTOR: \"Waiting on someone?\" ABBY (O.S.): \"No. I mean— no.\"",
+"e09:14"
+],
+[
+"11",
+"Studio",
+"WS",
+"3",
+"The door chimes. Hunter in the doorway, his olive overshirt soaked with rain",
+"Rain outside · ABBY (V.O.): \"Of course he's soaked. Of course.\"",
+"e09:16"
+],
+[
+"12",
+"Studio",
+"INS",
+"4",
+"He sits at the empty wheel and lays a creased sticky note on her tray: *float ✓ kayaks ✓ pottery*",
+"HUNTER: \"Last one on the list.\" ABBY (O.S.): \"You kept it?\"",
+"new: a creased yellow sticky note on a clay-spattered potter's wheel tray, handwritten float ✓ kayaks ✓ pottery, a man's wet fingers just leaving it, warm side light"
+],
+[
+"13a",
+"Studio",
+"CU (the turn)",
+"7",
+"Hunter, plainly, hands flat on his knees. No tells",
+"HUNTER: \"I'm Hunter Cole. I started Lumen at nineteen. Ten years later, I knew nobody in my building.\"",
+"e09:18a"
+],
+[
+"13b",
+"Studio",
+"Reverse CU (the turn)",
+"6",
+"Abby's face, taking it in, while Hunter keeps talking (O.S.)",
+"HUNTER (O.S., cont.): \"Two hundred jobs. Yours first. I came down to meet who I was firing.\"",
+"e09:18b"
+],
+[
+"13c",
+"Studio",
+"Same angle (cont.)",
+"4",
+"Hold on Abby. It lands",
+"ABBY (V.O.): \"I wasn't the date. I was the research.\"",
+"e09:18b"
+],
+[
+"13d",
+"Studio",
+"CU (the turn)",
+"8",
+"Back on Hunter, a little closer",
+"HUNTER: \"Then you rolled your chair into mine.\" (beat) \"Ten years rich, and I'd never done one thing. Until the axe.\"",
+"e09:18c"
+],
+[
+"14a",
+"Studio",
+"CU",
+"5",
+"Abby, eyes wet but hard",
+"ABBY: \"You lied to me. For weeks. You know who else did that?\"",
+"e09:19a"
+],
+[
+"14b",
+"Studio",
+"MCU (reverse)",
+"2",
+"Reverse on Hunter",
+"HUNTER: \"…Your dad.\" ABBY (O.S.): \"Yeah.\"",
+"e09:19b"
+],
+[
+"15a",
+"Studio",
+"MCU (reverse)",
+"4",
+"Abby, steadier, nodding at his wrist",
+"ABBY: \"You twist your watch when you lie. I counted three.\"",
+"e09:20b"
+],
+[
+"15b",
+"Studio",
+"MCU (reverse)",
+"3",
+"Reverse on Hunter",
+"HUNTER: \"…It's more than three.\" ABBY (O.S.): \"I know.\"",
+"e09:19b"
+],
+[
+"16",
+"Studio",
+"INS",
+"2",
+"He unbuckles the steel watch and sets it face down on the clay-spattered shelf",
+"A soft clink · HUNTER (V.O.): \"No more.\"",
+"new: ECU of a man's hand unbuckling a plain steel watch and setting it face down on a clay-spattered pottery shelf, warm side light"
+],
+[
+"17a",
+"Studio",
+"MCU two-shot",
+"3",
+"Across the two wheels",
+"ABBY: \"And my team—\" HUNTER: \"I'm not signing it.\"",
+"e09:20a"
+],
+[
+"17b",
+"Studio",
+"MCU (reverse)",
+"2",
+"Reverse on Abby, thrown",
+"ABBY: \"Because of me?\"",
+"e09:20b"
+],
+[
+"18",
+"Studio",
+"CU",
+"3",
+"Hunter, a tired half-smile starting",
+"HUNTER: \"Because you were right. I'm a project.\"",
+"e09:21"
+],
+[
+"19",
+"Studio",
+"CU",
+"3",
+"Abby laughs despite herself and wipes her eyes with a clay hand",
+"ABBY: \"That's so annoying.\" ABBY (V.O.): \"Don't smile. Too late.\"",
+"e09:22"
+],
+[
+"20",
+"Studio",
+"MS",
+"3",
+"Four hands later, his wrist bare: one crooked, collapsing bowl between them",
+"Warm guitar returns · ABBY: \"It's hideous.\" HUNTER: \"It's so hideous.\"",
+"e09:24"
+],
+[
+"21a",
+"Studio",
+"CU",
+"4",
+"Abby, serious again, the clay smear still on her cheek",
+"ABBY: \"I don't know if I can trust you yet.\"",
+"e09:25a"
+],
+[
+"21b",
+"Studio",
+"MCU (reverse)",
+"2",
+"Reverse on Hunter",
+"HUNTER: \"Okay. What would it take?\"",
+"e09:25b"
+],
+[
+"22",
+"Studio",
+"INS",
+"3",
+"His phone lights up on the wheel tray, beside the sticky note. GRANT: *board's dialing into monday's all-hands. bring the signature. or i bring the photos.*",
+"Buzz. The guitar cuts out",
+"new: phone face up on a clay-spattered potter's wheel tray beside a yellow sticky note, screen glowing with a text message, warm light"
+],
+[
+"23",
+"Studio",
+"CU",
+"4",
+"Abby has read it over his shoulder. Chin up, eyes dry now, a dare in them",
+"ABBY (V.O.): \"Photos. Of us.\" ABBY: \"Then prove it. Monday. All-hands.\" (beat) \"Camera on.\" Freeze, cut to black · *Episode 9 of 10*",
+"e09:26"
+]
+],
+"10": [
+[
+"1",
+"Studio (recap)",
+"CU",
+"2",
+"Abby at the wheel, a dare in her eyes",
+"ABBY: \"Camera on.\"",
+"e10:1"
+],
+[
+"2",
+"Wall screen",
+"INS (screen)",
+"4",
+"Grant's tile, cold and polished, beside a black tile: *Hunter C. — camera off*. Four board tiles along the bottom",
+"GRANT: \"Hunter's camera is off. As usual. First item: the restructure.\"",
+"e10:10"
+],
+[
+"3",
+"4th floor",
+"WS, LO",
+"2",
+"The all-hands on the big screen. Abby at her desk; the borrowed desk beside her is empty. On screen: *Monday. All-hands.*",
+"ABBY (V.O.): \"Empty. Of course.\"",
+"e10:2"
+],
+[
+"4",
+"4th floor",
+"WS",
+"3",
+"On the big screen the black tile glitches to life. Heads turn from the screen to the borrowed desk, where Hunter now sits behind his laptop. Abby frozen at the next desk",
+"A soft glitch. A fork drops · COWORKER (O.S.): \"Wait. Ops guy?\"",
+"e10:5"
+],
+[
+"5a",
+"4th floor",
+"MCU",
+"6",
+"Hunter, straight to the lens, hands flat on the desk. No twist",
+"HUNTER: \"Hi. I'm Hunter. Some of you know me as the Ops guy who eats chalk.\"",
+"e10:7a"
+],
+[
+"5b",
+"4th floor",
+"CU (reaction)",
+"2",
+"Abby, both hands over her mouth, laughing",
+"Laughter across the floor · ABBY (V.O.): \"He's doing it.\"",
+"e10:7c"
+],
+[
+"6a",
+"4th floor",
+"CU (reaction)",
+"7",
+"Cutaway to coworkers exchanging a look, while Hunter keeps talking (O.S.)",
+"HUNTER (O.S., cont.): \"Hunter Cole. I run Lumen. I came down here to meet the people on a layoff list.\"",
+"e10:8b"
+],
+[
+"6b",
+"4th floor",
+"CU (reaction)",
+"5",
+"Cutaway to Abby at her desk, while Hunter keeps talking (O.S.)",
+"HUNTER (O.S., cont.): \"And I lied to one of you. A lot.\" ABBY (V.O.): \"Way more than three.\"",
+"e10:3"
+],
+[
+"7",
+"4th floor",
+"MCU",
+"5",
+"Hunter, sitting up straight, the room soft behind him",
+"HUNTER: \"So. The restructure's off. Nobody on this floor is going anywhere.\" Gasps. A teammate grabs Abby's arm",
+"e10:9"
+],
+[
+"8a",
+"4th floor",
+"MCU",
+"5",
+"Hunter, calm, not looking away",
+"HUNTER: \"The board's on this call, Grant. I forwarded them your text.\"",
+"e10:11a"
+],
+[
+"8b",
+"Wall screen",
+"INS (screen)",
+"4",
+"Cutaway to Grant's tile, his smile gone, while Hunter keeps talking (O.S.)",
+"HUNTER (O.S., cont.): \"The one about the photos.\" GRANT (V.O.): \"He actually did it.\"",
+"e10:11b"
+],
+[
+"8c",
+"Wall screen",
+"INS (screen)",
+"3",
+"Grant's tile goes black: *Grant H. has left the meeting*",
+"A soft \"bloop\" · PRIYA (V.O.): \"Best. Monday. Ever.\"",
+"e10:11b"
+],
+[
+"9",
+"4th floor",
+"MCU",
+"7",
+"Back on Hunter, a small grin",
+"HUNTER: \"Starting next month, everybody gets a monthly credit on Groupon. Go do something you've never done.\"",
+"e10:11d"
+],
+[
+"10a",
+"4th floor, montage",
+"INS",
+"2",
+"A phone beside a lunch salad: *Vegetarian Cooking Class for Two*",
+"COWORKER 1 (O.S.): \"Date night. Finally.\" The series theme starts",
+"e10:12"
+],
+[
+"10b",
+"4th floor, montage",
+"INS",
+"2",
+"A phone beside a stress ball: *60-Minute Massage · Near the Loop*",
+"COWORKER 2 (O.S.): \"Nobody talk to me.\"",
+"e10:12"
+],
+[
+"10c",
+"4th floor, montage",
+"INS",
+"2",
+"A phone beside a train pass: *Noise-Canceling Headphones*",
+"COWORKER 3 (O.S.): \"Goodbye, Metra guy.\"",
+"e10:12"
+],
+[
+"10d",
+"4th floor, montage",
+"INS",
+"2",
+"A phone beside a kid's drawing: *Lakeside Cabin Weekend · Michigan*",
+"COWORKER 4 (O.S.): \"Dunes! We're doing the dunes!\" Applause",
+"e10:12"
+],
+[
+"11",
+"4th floor",
+"INS",
+"3",
+"Abby's monitor: *Promotion review · APPROVED · Senior Product Designer · Reviewer: D. Ortiz, Head of Design · H. Cole: recused*",
+"ABBY (V.O.): \"Recused. He stayed out of it.\"",
+"new: computer monitor showing an email reading Promotion review APPROVED Senior Product Designer, Reviewer D. Ortiz Head of Design, H. Cole recused, mustard mug beside it"
+],
+[
+"12",
+"4th floor",
+"CU",
+"3",
+"Abby turns to the borrowed desk, eyes wet, smiling, arms folded",
+"ABBY: \"Tell me you didn't touch this.\"",
+"e10:13"
+],
+[
+"13",
+"4th floor",
+"ECU",
+"3",
+"Hunter unstraps the watch, drops it in the desk drawer, and slides it shut",
+"HUNTER: \"Didn't touch it.\" (beat) \"Retired.\" The drawer clicks",
+"e10:14"
+],
+[
+"14",
+"Maxwell Street Market",
+"WS, HH",
+"2",
+"Crowds, grill smoke, vintage racks, a brass band. On screen: *Sunday. Maxwell Street.*",
+"Brass band",
+"e10:15"
+],
+[
+"15",
+"Market",
+"POV (App Glow)",
+"3",
+"Abby's phone: *Maxwell Street Food Walk for Two · $29 · Regular $50 · Sundays*",
+"ABBY (V.O.): \"Food walk, twenty-nine bucks. He's not paying.\"",
+"e10:16"
+],
+[
+"16",
+"Market",
+"MS, HH",
+"5",
+"Abby holds a rust-colored sweater up against him",
+"ABBY: \"Oh, this is you.\" HUNTER: \"It's orange.\" ABBY: \"It's rust. It's you.\"",
+"e10:17"
+],
+[
+"17",
+"Market",
+"MCU (reverse)",
+"6",
+"Abby, pleased with herself, as he pulls the twelve-dollar sweater on off screen",
+"HUNTER (O.S.): \"What do I owe you?\" ABBY: \"Twelve. I'm keeping a tab.\" HUNTER (O.S.): \"Where?\" ABBY: \"The fridge. Obviously.\"",
+"e10:19b"
+],
+[
+"18a",
+"Curb",
+"MCU two-shot (the turn)",
+"5",
+"They sit on the curb with Lupe's tamales",
+"ABBY: \"I was wrong about you. About… people with money. Kind of.\" HUNTER: \"Kind of?\"",
+"e10:21a"
+],
+[
+"18b",
+"Curb",
+"MCU (reverse)",
+"5",
+"Reverse on Abby",
+"ABBY: \"Don't push it.\" (beat) \"Lisbon jar's at sixty percent. Need a travel buddy.\"",
+"e10:21b"
+],
+[
+"18c",
+"Curb",
+"MCU (reverse)",
+"4",
+"Reverse on Hunter",
+"HUNTER: \"I'll pay my own way.\" ABBY (O.S.): \"Obviously. Still a project.\"",
+"e10:21c"
+],
+[
+"19",
+"Curb",
+"CU",
+"3",
+"Abby slaps a fresh sticky note on his knee: three blank lines",
+"ABBY: \"So. What're we doing next weekend?\"",
+"e10:22"
+],
+[
+"20a",
+"Curb",
+"CU",
+"4",
+"Hunter in the rust sweater, bare wrist beside the sticky note, thinking",
+"HUNTER (V.O.): \"Twelve-dollar sweater. No watch. No idea what time it is.\"",
+"e10:23"
+],
+[
+"20b",
+"Curb",
+"Same angle, widening to MS",
+"4",
+"He smiles. She leans in and kisses him, the kiss they almost had on the lake",
+"HUNTER: \"I don't know.\" (beat) \"Something I've never done.\" ABBY (O.S.): \"Okay.\" The market noise rushes back in",
+"e10:23"
+],
+[
+"21",
+"Market",
+"HIGH angle, pull-up",
+"2",
+"The camera rises away from the two of them into the bright, busy crowd",
+"The theme, full",
+"e10:24"
+],
+[
+"22",
+"End card",
+"Graphic",
+"4",
+"*The best things are found, not bought.* → *Get off the clock.* + wordmark",
+"The deal \"ding\" as the audio logo",
+"e10:25"
+]
+]
+}

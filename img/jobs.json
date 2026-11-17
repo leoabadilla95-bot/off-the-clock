@@ -1,0 +1,2800 @@
+[
+ {
+  "id": "e01_sheet_hunter",
+  "ep": 1,
+  "kind": "sheet",
+  "name": "HUNTER",
+  "prompt": "Character reference sheet, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e01_sheet_abby",
+  "ep": 1,
+  "kind": "sheet",
+  "name": "ABBY",
+  "prompt": "Character reference sheet, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e01_sheet_priya",
+  "ep": 1,
+  "kind": "sheet",
+  "name": "PRIYA",
+  "prompt": "Character reference sheet, A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, slightly out of breath, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e01_plate_lumen_lobby",
+  "ep": 1,
+  "kind": "plate",
+  "name": "Lumen lobby",
+  "prompt": "Modern tech company lobby, double-height glass atrium, polished concrete floor, moss wall, badge turnstiles, a framed founder photo deliberately blurry and taken from behind, cool blue morning daylight, sterile, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_plate_4th_floor_open_plan",
+  "ep": 1,
+  "kind": "plate",
+  "name": "4th floor open plan",
+  "prompt": "Open-plan tech office, rows of white desks, dual monitors, fluorescent lighting, cool palette, one desk with a mustard-yellow mug and a postcard of Lisbon, one bare borrowed desk beside it, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_plate_kitchenette",
+  "ep": 1,
+  "kind": "plate",
+  "name": "Kitchenette",
+  "prompt": "Small office kitchenette, white counter, coffee machine, fruit bowl, window with afternoon light, cool palette with one warm patch of sun, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_plate_elevator_bank",
+  "ep": 1,
+  "kind": "plate",
+  "name": "Elevator bank",
+  "prompt": "4th-floor elevator bank in a tech office, brushed-steel doors, glass wall, cool light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_1",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Extreme close-up of a man's left hand and wrist, his thumb resting on a plain steel wristwatch, navy quarter-zip cuff, cool blue morning light from a glass atrium behind, shallow depth of field, 85mm lens, vertical 9:16, photorealistic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_2",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Wide shot, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture walking alone through a double-height glass lobby with a moss wall, small in frame, head down, passing a large framed photo that is blurry and taken from behind. Perfectly symmetrical composition, cool daylight, vertical 9:16, cinematic. (Use the lobby plate as a reference image.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_4",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Medium shot, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture sitting at a bare desk in an open-plan tech office, half-unwrapped protein bar in hand, fluorescent light, cool palette. An empty office chair at the right edge of frame. Vertical 9:16. (Reference: the 4th-floor plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_5",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture leaning back in a rolled-over office chair, holding a mustard-yellow mug, squinting with amused suspicion, looking slightly screen-right, eye level, 50mm, open-plan office softly blurred behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_6",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Over-the-shoulder shot from behind A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture (the back of her mustard beanie and hoop earring soft in the foreground), focused on A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture mid-chew, slightly defensive, looking screen-left, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_7",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Top-down insert of a white desk: a woman's hand with a gold ring slides half a torta wrapped in paper toward a half-eaten protein bar, mustard-yellow mug at the edge, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_8",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Medium two-shot in a small office kitchenette, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in the foreground left leaning on the counter eating, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture deeper right holding the torta awkwardly, staggered on a diagonal, afternoon sun on the counter, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_9",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture holding the torta, caught off guard, looking slightly screen-left, sun on one side of his face, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_10",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "the phone plate, POV angle (green screen).",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_11",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture turning her phone (green screen) toward camera with a confident grin, kitchenette behind, vertical 9:16. A second keyframe: A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in medium close-up, cornered, half-smiling despite himself.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_13",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "the phone plate, POV angle, with Abby's thumb hovering.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_14",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture alone at the bare desk late in the day, office mostly empty, golden light through the blinds striping the desk, looking down at his phone, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_15",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Wide symmetrical shot of brushed-steel elevator doors on a tech-office floor, cool light, A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture visible through the opening doors holding a tablet, vertical 9:16. (Reference: the elevator plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_16",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Medium shot of A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture mid-stride between desks, relieved, pointing with the tablet, about to call out, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e01_key_shot_17",
+  "ep": 1,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, eyes wide, frozen; A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture soft and out of focus in the background at the next desk, starting to turn, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_sheet_jo",
+  "ep": 2,
+  "kind": "sheet",
+  "name": "JO",
+  "prompt": "Character reference sheet, A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e02_sheet_staffer",
+  "ep": 2,
+  "kind": "sheet",
+  "name": "STAFFER",
+  "prompt": "Character reference sheet, A man in his 20s in a red flannel shirt and a Bullseye Axe House cap, deadpan, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e02_plate_bullseye_exterior",
+  "ep": 2,
+  "kind": "plate",
+  "name": "Bullseye exterior",
+  "prompt": "Red-brick warehouse façade on a West Loop side street at night, a hand-lettered red neon sign reading BULLSEYE AXE HOUSE with an axe-and-target icon, warm amber windows, wet pavement reflecting the neon, a string of bulbs over the door, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_plate_check_in_counter",
+  "ep": 2,
+  "kind": "plate",
+  "name": "Check-in counter",
+  "prompt": "Rustic check-in counter of reclaimed wood against exposed red brick, a handheld barcode scanner on a cord, a chalkboard price list, a stack of waiver clipboards, warm Edison bulbs hanging low, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_plate_axe_lane",
+  "ep": 2,
+  "kind": "plate",
+  "name": "Axe lane",
+  "prompt": "A single wooden axe-throwing lane: a chain-link divider on each side, a painted red-white-and-blue bullseye on stacked pine planks scarred by hundreds of hits, sawdust on the floor, warm Edison bulbs overhead, shallow depth of field, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_plate_picnic_table",
+  "ep": 2,
+  "kind": "plate",
+  "name": "Picnic table",
+  "prompt": "A long wooden picnic table in the venue's lounge area, red brick behind, a few beers in clear plastic cups, a basket of fries, other lanes soft and bokeh in the background, warm tungsten light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_1",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Close-up of A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture mid-stride between white desks, mouth open on a hard \"Co\" sound, tablet clutched to her chest, eyes locked on someone screen-left, flat steel-blue fluorescent light, rows of dual monitors soft behind her, 50mm, vertical 9:16, photorealistic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_2",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Medium close-up of A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture with a tight, too-bright smile, one hand gesturing vaguely toward the elevators, tablet tucked under her arm, eyes darting left and right, cool fluorescent light, blurred coworkers at their desks behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_3",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Medium shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture rising from the bare desk too fast, chair rolling back behind him, half-turned toward screen-left, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in the foreground right, soft focus, the back of her mustard beanie and a gold hoop visible as she watches him, steel-blue light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_4",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Wide shot of the red-brick façade at night, BULLSEYE AXE HOUSE neon glowing red, warm amber windows, wet street reflecting the sign, two small figures (a mustard beanie and a navy quarter-zip) approaching the door, vertical 9:16, cinematic. (Reference: the exterior plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_5",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Insert at counter height: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hand (gold ring, cardigan sleeve) holding up her phone in the mustard-yellow case, screen facing away from camera toward a handheld barcode scanner held by a hand in a red flannel cuff, red brick and Edison bulbs soft behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_6",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the counter, pulling a thick fold of hundred-dollar bills in a silver money clip from his pocket, earnest and ready to pay, steel watch catching the bulb light, red brick behind, warm tungsten, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_7",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Medium close-up of A man in his 20s in a red flannel shirt and a Bullseye Axe House cap, deadpan, natural skin texture behind the counter, eyes lowered to the cash just below frame, completely still, chalkboard price list behind, warm Edison light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_8",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Over-the-shoulder shot from behind A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture (beanie, hoop and claw clip soft in the foreground left), focused on A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture tucking the cash back into his pocket a little too quickly, eyes down, red brick and a waiver clipboard behind him, warm light, vertical 9:16. This is the first time the camera \"catches\" him: frame it slightly too close.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_9",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Extreme close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, left hand and wrist, thumb on the plain steel watch, navy cuff, warm bulb light (the warm version of Episode 1 shot 1), 85mm, shallow depth of field, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_10",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "Medium shot from behind the lane divider: A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture mid-follow-through, awkward and stiff, the axe clattering off the painted target; A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture at the chain-link edge of frame bent over, crying with laughter, warm Edison light, sawdust in the air, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_11",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Medium two-shot: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture standing behind A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, one hand on his shoulder, the other adjusting his elbow, both facing the target, her face close at his shoulder, warm light, target soft in the background, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_12",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in profile, eyes closing, lips parted on an exhale, warm bulb light rimming his face, everything behind him dark and soft, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_13",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Wide shot down the lane: the axe tumbling end over end in midair, sharp, the painted bullseye ahead, Hunter's arm extended at the edge of frame, sawdust hanging in the light, vertical 9:16. (Reference: the axe plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_14",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture spinning toward camera mid-laugh, mouth wide open, eyes bright, hair slightly out of its side part, warm Edison light, the target with the axe in it soft behind him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_15",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hands on her head, delighted, laughing, beanie pushed back, warm light, the chain-link divider behind her, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_16",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Medium two-shot across the picnic table, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture facing each other, beers in clear plastic cups, a basket of fries between them, both flushed and relaxed, red brick and lanes in warm bokeh behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_17",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Insert of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hand holding her phone in the mustard-yellow case, screen toward camera (green screen), resting on the table beside a plastic beer cup, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_18",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Wide shot of the picnic table: A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture arriving in scrubs and an oversized denim jacket, bag on her shoulder, hugging A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture one-armed, then reaching across to shake A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, hand, squinting at him, warm venue light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_19",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Medium shot of A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture sitting at the table end, half-turned away, scrolling her phone with a distracted half-smile, Abby and Hunter talking soft and out of focus beside her, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_20",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "POV looking down at A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture, phone in a clear case (green screen), her thumb and finger ready to pinch, the edge of the table and a plastic cup below, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_21",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Close-up of A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture, eyes lifting from her phone to look straight across the table, expression gone still, warm light on one side of her face, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e02_key_shot_22",
+  "ep": 2,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Close-up of A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture leaning toward camera, voice low, phone pressed face-down against her chest, eyes urgent, Abby soft in the foreground edge, warm light now feeling close and tense, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_sheet_lupe",
+  "ep": 3,
+  "kind": "sheet",
+  "name": "LUPE",
+  "prompt": "Character reference sheet, A Mexican woman in her 60s, gray hair in a low bun, embroidered apron over a floral blouse, flour on her hands, warm and bossy, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e03_plate_abby_s_apartment",
+  "ep": 3,
+  "kind": "plate",
+  "name": "Abby's apartment",
+  "prompt": "Cozy Pilsen two-flat living room at night, exposed red-brick wall, a sagging green velvet couch with a crocheted blanket, warm string lights along the ceiling, plants on the sill, a small kitchen visible behind with an old white fridge papered edge to edge with printed vouchers, ticket stubs, photos and magnets, the Bullseye voucher pinned at the top, warm tungsten, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_plate_hunter_s_penthouse",
+  "ep": 3,
+  "kind": "plate",
+  "name": "Hunter's penthouse",
+  "prompt": "Vast minimalist penthouse at night, gray concrete and pale stone, floor-to-ceiling windows onto the glittering Chicago skyline, one long white kitchen island with nothing on it, a huge stainless double-door fridge, cold blue-gray light, no warmth anywhere, perfectly symmetrical, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_plate_masa_m_a_exterior",
+  "ep": 3,
+  "kind": "plate",
+  "name": "Masa Mía exterior",
+  "prompt": "Small corner storefront on a Pilsen street in late-morning sun, hand-painted sign MASA MÍA · COCINA COMUNITARIA in red and green, strings of colorful papel picado across the window, a colorful mural on the side wall, steam drifting from a vent, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_plate_masa_m_a_kitchen",
+  "ep": 3,
+  "kind": "plate",
+  "name": "Masa Mía kitchen",
+  "prompt": "Community kitchen with cobalt-and-white Talavera tile walls, two long steel worktables with bowls of masa, stacks of soaked corn husks and bowls of red and green filling, papel picado strung overhead, sunlight through steamy windows, warm golden light, vertical 9:16, cinematic, completely empty, no people",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_plate_steamer_corner",
+  "ep": 3,
+  "kind": "plate",
+  "name": "Steamer corner",
+  "prompt": "A huge dented aluminum tamale steamer on a gas burner in a corner of the tiled kitchen, steam rolling out under the lid, a wooden stool on either side, warm golden light catching the steam, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_plate_front_counter",
+  "ep": 3,
+  "kind": "plate",
+  "name": "Front counter",
+  "prompt": "Small wooden front counter by the kitchen door, a countertop card reader with a small screen, a big glass jar of jamaica and one of horchata with ladles, a hand-lettered price card, a tip jar, warm golden light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_1",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Close-up of A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture leaning toward camera, voice low, phone pressed face-down against her chest, eyes urgent, Abby soft at the foreground edge, warm Edison light with a touch of extra contrast, vertical 9:16. (Match Episode 2 shot 22 exactly.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_2",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Insert: A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture, hand holding her phone in a clear case out toward the lens (green screen), a plastic beer cup and fries basket soft below, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_3",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Medium shot of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture leaning over Jo's shoulder to look at the phone, chin on her hand, eyebrows flat, completely unimpressed, red brick and bulbs behind, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_4",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Extreme close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the counter in profile, his left hand raised mid-gesture to touch his own ear, the steel watch on that wrist filling the lower frame, red brick soft behind, warm bulb light, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_5",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Wide shot of Abby's living room at night: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture (mustard scarf instead of the beanie, hoops, claw clip) curled on the green velvet couch under warm string lights, phone in hand; behind her in the kitchen the white fridge is papered with printed vouchers and ticket stubs, the Bullseye voucher pinned at the top, red-brick wall at frame left, warm tungsten, vertical 9:16. (Reference: the apartment plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_6",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "POV looking down at A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, phone in the mustard-yellow case (green screen), her thumb on the screen, the crocheted blanket and a string-light glow soft below, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_7",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture on the couch, phone held up near her face, lit by the screen and the string lights, a sly grin starting, warm tungsten, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_8",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Wide, perfectly symmetrical shot of the penthouse kitchen at night: A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture small in frame, standing alone at the long white island, a single brown takeout bag in front of him, a full cookware set still sealed in plastic on the counter behind, huge stainless fridge, floor-to-ceiling windows and the city glittering beyond, cold blue-gray light, vertical 9:16. (Reference: the penthouse plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_9",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Insert of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, phone in a plain black case lying face up on the pale stone island (green screen), his hand and the steel watch at the frame edge, cold window light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_10",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "Wide shot of the Masa Mía corner storefront in late-morning sun, papel picado fluttering across the window, steam drifting from the vent, the mural bright on the side wall, a couple of neighbors walking past, warm golden light, vertical 9:16. (Reference: the exterior plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_11",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Medium shot in the tiled kitchen: A Mexican woman in her 60s, gray hair in a low bun, embroidered apron over a floral blouse, flour on her hands, warm and bossy, natural skin texture holding A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, face in both floury hands, beaming, Abby laughing, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture a step behind at the frame edge, hands in his pockets, papel picado overhead, steam and golden window light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_12",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Extreme close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, hands at the steel worktable, steel watch on the left wrist, a corn husk tearing down the middle as a fat glob of masa squeezes out between his fingers, warm golden light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_13",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Medium close-up of A Mexican woman in her 60s, gray hair in a low bun, embroidered apron over a floral blouse, flour on her hands, warm and bossy, natural skin texture across the worktable, wooden spoon raised, horrified at something just below frame, cobalt tile and papel picado behind, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_14",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture frozen, eyes unfocused, looking at nothing, the busy warm kitchen soft and bright behind him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_15",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Medium shot of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture leaning in beside Hunter at the worktable, bumping his shoulder with hers, grinning, masa on her own fingers, warm light, papel picado overhead, vertical 9:16. Two people in frame: Abby on the left, and Hunter on the right, a tall lean man in his early 30s with a short dark side part, navy quarter-zip over a white tee and a steel watch, kneading masa.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_16",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Close two-shot over the worktable: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hands over A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture,, guiding a fold, then a tie, a lopsided overstuffed tamale between them, flour on his navy quarter-zip, warm golden light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_17",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Medium two-shot: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture and A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture on wooden stools by the big steamer, shoulder to shoulder, steam rolling up between them and the lens, both with flour on them, warm golden light through the steam, vertical 9:16. (Reference: the steamer plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_18",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture looking down at his floury hands in his lap, quiet, steam softening the frame, warm golden light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_19",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture holding up his steamed, lopsided tamale in its husk between them like a trophy, deadpan, eyes glinting, steam behind, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_20",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Medium shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture standing up from his stool a little too fast, one masa-covered hand raised, the class at the worktables behind him turning toward him, A Mexican woman in her 60s, gray hair in a low bun, embroidered apron over a floral blouse, flour on her hands, warm and bossy, natural skin texture at the edge of frame, papel picado overhead, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_21",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Insert of the countertop card reader, a black card being tapped against it by a hand with masa on the knuckles, jars of jamaica and horchata soft behind, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_22",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the counter, hands held up and covered in masa, looking down at his ringing phone on the counter, flustered, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_23",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Insert of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, phone face up on the wooden counter (green screen), a smear of masa on the glass, the edge of the card reader and a jar of jamaica beside it, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_24",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 24",
+  "prompt": "Wide shot of the whole kitchen: the class silent at the worktables, Lupe with her spoon lowered, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the counter with masa on his hands, everyone still, steam drifting, papel picado overhead, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e03_key_shot_25",
+  "ep": 3,
+  "kind": "key",
+  "name": "shot 25",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, flour on her cheek, smile gone, eyes narrowing as she looks screen-right at Hunter, warm light turned still and tense, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_sheet_grant",
+  "ep": 4,
+  "kind": "sheet",
+  "name": "GRANT",
+  "prompt": "Character reference sheet, A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e04_plate_masa_m_a_kitchen",
+  "ep": 4,
+  "kind": "plate",
+  "name": "Masa Mía kitchen",
+  "prompt": "Small community cooking-class kitchen, cobalt and white Talavera tile backsplash, strings of pink, orange and green papel picado across the ceiling, a long steel prep table with bowls of masa, stacks of soaked corn husks and a steaming tamalera pot, warm tungsten pendant bulbs, golden late-afternoon light through a side window, steam in the air, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_plate_penthouse_at_night",
+  "ep": 4,
+  "kind": "plate",
+  "name": "Penthouse at night",
+  "prompt": "Vast minimalist penthouse kitchen at night, gray stone floor, a long white marble island with nothing on it, floor-to-ceiling windows onto a cold blue city skyline, a single cool overhead strip light, huge and silent, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_plate_4th_floor_all_hands",
+  "ep": 4,
+  "kind": "plate",
+  "name": "4th floor, all-hands",
+  "prompt": "The Episode 1 4th-floor plate, plus a large wall-mounted screen at the end of the room (green screen for compositing), rows of white desks with dual monitors, flat fluorescent light, steel-blue palette, Abby's desk with the mustard-yellow mug and Lisbon postcard beside Hunter's bare desk, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_1",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in a flour-dusted apron at a steel prep table, a half-folded tamale in her hands, eyebrows raised, head tilted, looking slightly screen-right at someone off camera, papel picado soft and colorful behind her, warm tungsten light and rising steam, 50mm, shallow depth of field, vertical 9:16.* (Reference: the Masa Mía plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_2",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the prep table, masa on his fingers, phone still in his other hand, eyes darting, caught, looking screen-left, warm tungsten light, steam and papel picado behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_3",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Extreme close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, left wrist and the plain steel wristwatch, masa smudged on his thumb, navy quarter-zip cuff, warm tungsten bokeh behind, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_4",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, unsure, studying him, then the start of a slow smile, papel picado and steam behind, warm light, looking screen-right, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_5",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Wide shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture alone at a long white marble island in a vast gray penthouse at night, small in frame, tearing the shrink-wrap off a boxed stainless cookware set, a pile of dry corn husks on the cold marble, floor-to-ceiling windows onto a blue city skyline, single cool strip light, vertical 9:16, cinematic.* (Reference: the penthouse plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_6",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the island, the phone plate in his hand (green screen) tilted toward him, a lumpy tamale on a plate beside the new pot, cold blue window light on one side of his face, empty dark room behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_7",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Wide shot of the open-plan office, rows of white desks, everyone facing a large wall screen (green screen) at the end of the room, flat fluorescent light, steel-blue palette, vertical 9:16.* (Reference: the 4th-floor all-hands plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_8",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Medium shot down a row of desks, employees hunched over plastic clamshell salads, forks paused, watching the wall screen with blank faces, fluorescent light, steel-blue palette, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_9",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Insert of the wall screen (green screen), framed tight so the video grid fills the vertical frame, a fluorescent reflection across the glass, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_10",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "Medium two-shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture side by side at neighboring desks, both facing the wall screen off camera left, Abby upright with her salad, Hunter sliding down in his chair, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_11",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, leaning slightly toward screen-right without turning her head, eyes still on the wall screen, a conspiratorial half-smile, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_12",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, now turned toward him, half joking, half not, one hand gesturing with her fork at the room, fluorescent light, rows of desks soft behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_13",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, sitting up a little, looking past camera around the office as if seeing it for the first time, desks and hunched coworkers soft behind him, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_14",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, mid-shrug, fork down, a wry look, peeling a yellow sticky note off a pad in her other hand, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_15",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Top-down insert of a yellow sticky note on a white desk, a woman's hand with a gold ring writing on it with a black marker, mustard-yellow mug at the edge of frame, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_16",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Insert of the bezel of a black office monitor, a woman's hand with a gold ring and a cardigan cuff pressing a yellow sticky note onto it, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_17",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, leaning back in her chair, arms folded, pleased with herself, looking screen-right at him, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_18",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Close insert of the sticky note on the monitor bezel, a man's hand holding a blue ballpoint over it, steel watch on the wrist, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_19",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Low-angle wide shot of brushed-steel elevator doors opening on the 4th floor, A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture stepping out in a sharp charcoal suit, chin up, scanning the floor, cool hard light, vertical 9:16, cinematic.* (Reference: the elevator plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_20",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Medium shot of A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture across the office between desks, looking up from her tablet in alarm, eyes wide, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_21",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Medium close-up of A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture walking toward camera between desks, a thin smile that doesn't reach his eyes, fluorescent light, coworkers blurred behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_22",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture swiveling her chair toward screen-right, mouth open, delighted and scandalized, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e04_key_shot_23",
+  "ep": 4,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at his desk, frozen, staring up past camera, a man's shadow falling across the desk and the sticky note on the monitor beside him, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_plate_drift_entrance",
+  "ep": 5,
+  "kind": "plate",
+  "name": "Drift entrance",
+  "prompt": "Exterior of a converted brick storefront in Wicker Park, Chicago, a small glowing sign reading *Drift Float & Sauna* in thin lowercase letters, frosted glass door lit from inside with soft blue-violet light, a potted fern by the step, overcast Saturday daylight, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_plate_spa_locker_room",
+  "ep": 5,
+  "kind": "plate",
+  "name": "Spa locker room",
+  "prompt": "Small spa locker room, warm cedar-slat lockers with brass numbers, a cedar bench, folded white waffle robes on a shelf, dim blue-violet ceiling light with a warm glow from the cedar, calm and hushed, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_plate_float_pod_room",
+  "ep": 5,
+  "kind": "plate",
+  "name": "Float pod room",
+  "prompt": "Dark private room with a large open float pool, shallow water glowing soft blue from below, faint star-like ceiling lights, matte black walls, stillness, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_plate_cedar_sauna",
+  "ep": 5,
+  "kind": "plate",
+  "name": "Cedar sauna",
+  "prompt": "Small cedar sauna, two tiers of pale wood benches, a stove of glowing red-orange coals and stones in the corner, a wooden bucket and ladle, amber light, steam hanging in the air, warm and close, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_1",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Medium close-up of A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture stopping at a desk, looking down at someone just below camera, a thin pleasant smile that doesn't reach his eyes, flat fluorescent light, rows of white desks soft behind him, slightly low angle, vertical 9:16.* (Picks up exactly where Episode 4 ended.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_2",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Medium shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture rising from his desk chair to face someone off camera right, olive overshirt, the yellow sticky note on the monitor behind him, chin level, eyes pleading, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_3",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Low-angle close-up of A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture, head tilted a few degrees, studying someone, fluorescent ceiling panels behind him, cool hard light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_4",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Medium close-up of A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture already half-turned to leave, looking back over his shoulder toward camera, one hand buttoning his jacket, fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_5",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Extreme close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, face, eyes huge, mouth open, gold hoop catching the light, fluorescent light, vertical 9:16.* Plus the watch-twist ECU from Episode 4 shot 3 (reshoot clean, no masa, navy cuff swapped for the olive overshirt cuff).",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_6",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Wide shot of the Drift Float & Sauna storefront in Wicker Park, old Chicago brick, the frosted glass door glowing blue-violet, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture small in frame walking up to the door, overcast daylight, vertical 9:16, cinematic.* (Reference: the Drift entrance plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_7",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Insert of an open cedar locker, a woman's hand with a gold ring and a cardigan cuff dropping a phone in a mustard-yellow case onto the shelf, dim blue-violet light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_8",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Insert of a man's hand holding the phone plate (green screen) at the open cedar locker, olive overshirt cuff, steel watch on the wrist, dim blue-violet light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_9",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture holding the cedar locker door open with one arm, head tilted, eyebrows up, an expectant look screen-right, dim blue-violet light with a warm cedar glow, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_10",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "Extreme close-up of a man's left wrist over the cedar locker shelf, fingers on the buckle of the plain steel wristwatch, the phone face up on the shelf below, olive overshirt cuff, dim blue-violet light, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_11",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Top-down shot looking straight down at a glowing blue float pool in a dark room, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in navy swim trunks lowering himself into the water, ripples spreading, vertical 9:16, cinematic.* (Reference: the float pod plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_12",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture floating on his back, eyes closed, face lit from below by soft blue water light, wet hair, ears just under the surface, black space around him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_13",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Extreme close-up of a bare left wrist resting on the surface of glowing blue water, a faint pale tan line where a watch used to be, fingers loose, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_14",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Medium shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture side by side on the upper cedar bench, Hunter in a white towel, Abby in a black swimsuit with a mustard towel around her shoulders, glowing coals in the foreground corner, steam and amber light, vertical 9:16.* (Reference: the cedar sauna plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_15",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture on the cedar bench, elbows on his knees, staring at the coals, sweat on his temples, amber coal light on his face, steam behind, bare left wrist visible, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_16",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, turning to look at him, chin on her hand, a gentle challenge in her eyes, amber light, steam soft behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_17",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, turned toward her, looking at her a long beat, the beginning of a real smile, amber light on one side of his face, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_18",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, grinning, deflecting with a joke, amber light, steam, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_19",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Medium two-shot on the cedar bench, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture mid-throw flinging a small white towel at A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, both laughing, steam swirling, amber light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_20",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, quieter now, looking at the glowing coals instead of at him, hugging her knees, mustard towel slipping off one shoulder, amber light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_21",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, the smile gone, staring at the coals, sweat on his brow, amber light flickering on his face, steam behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_22",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, shaking it off with a small smile, glancing back at him, amber light, steam, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_23",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Insert of the cedar locker swinging open, the steel watch and the phone plate (green screen) face up on the shelf, a man's hand in a white robe sleeve reaching in, dim blue-violet light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_24",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 24",
+  "prompt": "Close insert of the phone plate (green screen) in a man's hand, white robe sleeve, bare wrist, dim blue-violet light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e05_key_shot_25",
+  "ep": 5,
+  "kind": "key",
+  "name": "shot 25",
+  "prompt": "Over-the-shoulder shot past A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, shoulder in a white robe, the phone plate (green screen) in his hand in soft focus, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture behind him in a white robe with damp hair, gold hoops and claw clip, leaning in to read the screen, her face sharp, dim blue-violet light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_sheet_celeste",
+  "ep": 6,
+  "kind": "sheet",
+  "name": "CELESTE",
+  "prompt": "Character reference sheet, A woman in her early 30s, glossy blowout, oversized sunglasses, white linen resort wear, champagne flute in hand, amused, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e06_plate_spa_locker_room",
+  "ep": 6,
+  "kind": "plate",
+  "name": "Spa locker room",
+  "prompt": "Spa locker room at closing time, a row of warm cedar lockers with brass numbered tags, a slatted cedar bench, folded white towels, dim blue-violet ambient light with one warm downlight over the bench, soft steam haze near the ceiling, quiet, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_plate_penthouse_night",
+  "ep": 6,
+  "kind": "plate",
+  "name": "Penthouse, night",
+  "prompt": "Vast minimalist penthouse at 2 AM, polished gray concrete floor, a low gray sofa nobody sits on, floor-to-ceiling windows onto the Chicago skyline, cold blue city glow as the only light, nothing personal anywhere, an open laptop on the floor by the window casting a pale rectangle, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_plate_lake_dock",
+  "ep": 6,
+  "kind": "plate",
+  "name": "Lake dock",
+  "prompt": "Weathered wooden dock on Lake Michigan at golden hour, a rack of yellow and red rental kayaks, a small Lakeshore Paddle Co. sign, coiled ropes, gulls on the posts, Chicago skyline hazy behind, warm low sun flaring off the water, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_plate_open_lake",
+  "ep": 6,
+  "kind": "plate",
+  "name": "Open lake",
+  "prompt": "Calm Lake Michigan at sunset, glassy water with long golden reflections, the Chicago skyline as a distant silhouette, a soft pink-orange sky, no boats, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_plate_party_yacht",
+  "ep": 6,
+  "kind": "plate",
+  "name": "Party yacht",
+  "prompt": "A sleek white party yacht with a flybridge, string lights and a crowd in linen on the deck, gliding toward a wooden dock at sunset, vertical 9:16, cinematic (no faces needed; it's background)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_1",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Over-the-shoulder shot from behind A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture (white tee, overshirt half on, phone in his hand soft in the foreground), A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture just behind his other shoulder reading the screen, damp hair under the mustard beanie, eyebrows rising, cedar lockers behind, dim blue-violet light with one warm downlight, 50mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_2",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture turning to face her, pocketing the phone a little too fast, forcing an easy smile, overshirt now on, wrist bare, cedar lockers soft behind, blue-violet light with the warm downlight catching one cheek, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_3",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture leaning a shoulder against the cedar lockers, arms folded, one eyebrow up, a dry half-smile, looking slightly screen-right, blue-violet light, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_4",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Extreme close-up of a man's left wrist, the plain steel watch being buckled back on, olive overshirt cuff, cedar locker shelf blurred behind, a sliver of warm downlight on the steel, 100mm macro, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_5",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Wide shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in a white tee lying awake on the polished concrete floor of a vast empty penthouse, propped on one elbow beside an open laptop whose screen glows on his face, floor-to-ceiling windows and the cold blue skyline filling the frame behind him, tiny in the room, vertical 9:16.* (Reference: the penthouse plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_6",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture on the floor, one hand on the laptop lid, his face lit cold blue from below, the window behind him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_7",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "the phone plate, POV angle (green screen), held low over the concrete floor.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_8",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "the phone plate, POV angle, thumb resting just under a card.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_9",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture lying back on the concrete, phone held above his face, the screen's light the only warmth on his skin, the cold skyline soft behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_10",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "the phone plate, POV angle, screen green.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_11",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Wide shot from the end of a weathered dock, two kayaks (yellow number 7, red number 8) sliding off into golden water, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in red life vests climbing in, the Guide standing on the dock with a clipboard, the Chicago skyline hazy behind, low sun flaring, vertical 9:16.* (Reference: the dock plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_12",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Handheld medium shot from water level, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture mid-stroke with his paddle, a sheet of spray flying toward A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in the next kayak, her mouth open in shock, golden backlight through the droplets, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_13",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Top-down high angle over glassy golden water, two tiny kayaks, one yellow and one red, side by side, long shadows, the skyline a thin silhouette at the top edge of frame, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_14",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Medium shot from the water, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture drifting side by side, paddles laid across their laps, both wet and grinning, catching their breath, sun low behind them, skyline silhouette, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_15",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in her kayak, chin on her paddle, curious, looking screen-right, golden light on her face, the lake soft behind, 85mm, vertical 9:16.* Then a single of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture caught off guard, for his reply.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_16",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, the penny dropping, a slow soft smile, looking screen-right, sun behind her making a halo in her hair, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_17",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, gentle and curious, looking screen-left, golden light, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_18",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, careful, testing the water, eyes on her, his watch hand resting on the paddle, looking screen-left, last golden light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_19",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, struck, the words landing, sunset rim light on his profile, water bokeh behind, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_20",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Extreme close-up of two hands reaching across the gap between a yellow kayak and a red kayak, the steel watch on his left wrist, a gold ring on her hand, golden water below, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_21",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Medium two-shot in profile, the two kayaks nudging together, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture leaning toward each other, hands still linked, the sun a ball on the horizon between their faces, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_22",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Wide shot, the white party yacht with string lights gliding across frame toward the dock, its wake rolling out, the two small kayaks in the foreground corner, vertical 9:16.* (Reference: the party yacht plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_23",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Wide shot from the dock, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture paddling in beside the moored yacht, tiny and soaked next to its white hull, partygoers in linen on deck above them, golden-hour sun, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_24",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 24",
+  "prompt": "Low-angle medium shot of A woman in her early 30s, glossy blowout, oversized sunglasses, white linen resort wear, champagne flute in hand, amused, natural skin texture stepping off the yacht's gangway onto the dock, champagne flute in hand, white linen catching the wind, sunglasses on, sun flaring behind her, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_25",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 25",
+  "prompt": "Medium close-up of A woman in her early 30s, glossy blowout, oversized sunglasses, white linen resort wear, champagne flute in hand, amused, natural skin texture glancing down at the kayaks, sunglasses on, a flicker of recognition, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e06_key_shot_26",
+  "ep": 6,
+  "kind": "key",
+  "name": "shot 26",
+  "prompt": "Close-up of A woman in her early 30s, glossy blowout, oversized sunglasses, white linen resort wear, champagne flute in hand, amused, natural skin texture looking down at camera, sunglasses lowered, an amused, slightly cruel smile, champagne flute raised near her chin, golden backlight, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_sheet_team",
+  "ep": 7,
+  "kind": "sheet",
+  "name": "TEAM",
+  "prompt": "Character reference sheet, Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e07_plate_22nd_floor_boardroom",
+  "ep": 7,
+  "kind": "plate",
+  "name": "22nd-floor boardroom",
+  "prompt": "Executive boardroom on the 22nd floor, black glass walls, a long black lacquered table with twelve empty leather chairs, one chair at the head, a single tablet on the table, floor-to-ceiling windows on a steel-blue dusk skyline, cold overhead strip light, no warmth anywhere, perfectly symmetrical, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_plate_hunter_s_ceo_office",
+  "ep": 7,
+  "kind": "plate",
+  "name": "Hunter's CEO office",
+  "prompt": "Corner CEO office at night, black glass walls, a bare black desk with one printed document and a heavy black pen, the Chicago skyline glittering cold behind, the only light a narrow desk lamp and the city, empty and expensive, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_1",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Close-up of A woman in her early 30s, glossy blowout, oversized sunglasses, white linen resort wear, champagne flute in hand, amused, natural skin texture on the dock looking down, sunglasses lowered to the tip of her nose, champagne flute at her chin, an amused smile, golden backlight flaring off the water, vertical 9:16.* (Match Episode 6, shot 26.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_2",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture gripping the dock edge from his kayak, looking up, hair wet, a frozen polite smile, the yacht's white hull behind him, golden light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_3",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Medium three-shot on the dock: A woman in her early 30s, glossy blowout, oversized sunglasses, white linen resort wear, champagne flute in hand, amused, natural skin texture standing over them on the left, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture climbing out of her kayak center, looking between them, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture half-out of his kayak on the right, string lights from the yacht above, golden-hour sun, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_4",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture standing on the dock, dripping, arms folded against the breeze, looking screen-right at him, piecing it together slowly, golden light fading, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_5",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Extreme close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, lower face and jaw, his left hand raised at chest height in the foreground, thumb on the steel watch, damp olive cuff, golden light, 100mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_6",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, quiet, looking at him, a small nod, the sun now behind the skyline, the gold draining to blue, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_7",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Wide, perfectly symmetrical shot down the length of a black lacquered boardroom table, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in a charcoal suit jacket seated at the head, small against floor-to-ceiling windows of a steel-blue dusk skyline, empty leather chairs on both sides, cold strip light, vertical 9:16.* (Reference: the boardroom plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_8",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Low-angle medium close-up of A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture standing at the side of the table, one hand flat on it, tablet in the other, the cold window behind him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_9",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the foreground, A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture soft behind him over his shoulder, both in charcoal, cold dusk light, vertical 9:16.* Generate a matching single of Grant for his reply.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_10",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "Grant's tablet on the black table, screen green, Hunter's hand above it.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_11",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Extreme close-up of the plain steel watch on a wrist in a charcoal suit cuff, resting on black lacquer, the cold window reflected in the table, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_12",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Medium shot of Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture huddled around two desks, leaning in, anxious, phones in hands, cool fluorescent light, steel-blue office behind, vertical 9:16.* (Reference: the 4th-floor plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_13",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Slightly low medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture standing on a rolling office chair, one hand on a monitor for balance, rallying the room, cool office light with her mustard beanie the brightest thing in frame, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_14",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture still on the chair, already scrolling her phone, planning, a grin coming back, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_15",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Medium shot of Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture in front of their desks, the woman with round glasses in front, deadpan, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture at frame edge stepping down off the chair, cool light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_16",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Wide shot down the office aisle, brushed-steel elevator doors open at the back, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the olive overshirt with a black messenger bag stepping out, small in frame, the team and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture by the desks in the foreground, cool fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_17",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture at her desk, the Lisbon postcard behind her, guarded since the dock, then softening, looking screen-right, cool office light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_18",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture smiling at her, the corner of a black tablet visible in the open flap of the messenger bag at his hip, soft in the foreground, cool light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_19",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Wide shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the charcoal suit jacket alone at a bare black desk in a black-glass corner office at night, the skyline glittering cold behind him, one narrow desk lamp, the document in front of him, vertical 9:16.* (Reference: the CEO office plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_20",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Top-down insert of a printed document on a black desk under a lamp, a yellow Sign here flag on the signature line, a black fountain pen beside it, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_21",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Medium shot of A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture standing in the office doorway, coat on, bag over her shoulder, tablet held against her chest, warm corridor light behind her, the cold office in front, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_22",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Extreme close-up of a fountain pen nib hovering over a signature line, the steel watch on the wrist above it, lamp light, deep shadow, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e07_key_shot_23",
+  "ep": 7,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, eyes and brow, lit by the lamp from below, the city a cold blur behind, unreadable, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_sheet_instructor",
+  "ep": 8,
+  "kind": "sheet",
+  "name": "INSTRUCTOR",
+  "prompt": "Character reference sheet, A lanky man in his 30s in a black tee, loose jeans, big expansive gestures, big voice, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e08_sheet_host",
+  "ep": 8,
+  "kind": "sheet",
+  "name": "HOST",
+  "prompt": "Character reference sheet, A woman in her 20s with a headset and a clipboard, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e08_plate_ceo_office_night",
+  "ep": 8,
+  "kind": "plate",
+  "name": "CEO office, night",
+  "prompt": "Corner CEO office on a high floor, floor-to-ceiling black glass, a long black desk with a single desk lamp, Chicago skyline at night behind, cold blue-white light, reflections of the room in the glass, sterile and empty, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_plate_second_act_improv_exterior",
+  "ep": 8,
+  "kind": "plate",
+  "name": "Second Act Improv exterior",
+  "prompt": "Old Town Chicago street at night, red brick wall, a small vintage marquee with chasing warm bulbs reading SECOND ACT IMPROV, a black door propped open, wet sidewalk catching the bulb light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_plate_theater_entrance",
+  "ep": 8,
+  "kind": "plate",
+  "name": "Theater entrance",
+  "prompt": "Narrow theater entrance hall, scuffed black walls covered in old show posters, a small wooden host stand with a desk lamp and a QR scanner, warm tungsten light spilling from the black-box doorway, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_plate_black_box_theater_house",
+  "ep": 8,
+  "kind": "plate",
+  "name": "Black-box theater, house",
+  "prompt": "Intimate black-box improv theater, about forty mismatched folding chairs, exposed red-brick back wall, a single warm spotlight on a bare stage, dim amber house light, haze in the beam, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_plate_black_box_stage",
+  "ep": 8,
+  "kind": "plate",
+  "name": "Black-box stage",
+  "prompt": "The same bare stage from the audience's eye line, one hard warm spotlight, a long shadow thrown up the red-brick back wall, the house falling off to black, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_plate_bar_next_door",
+  "ep": 8,
+  "kind": "plate",
+  "name": "Bar next door",
+  "prompt": "Small loud neighborhood bar, dark wood, Edison bulbs, crowded two-tops, stacks of clear plastic cups on the bar, a wooden chair with nothing hung on it in the foreground, warm low light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_1",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Close-up from above the desk: a man's right hand holding an uncapped matte-black fountain pen, nib hovering a centimeter over an empty signature line on a white page, the plain steel watch on the other wrist at the frame edge, olive cuff, cold blue light from the black glass, a lamp pool on the paper, 85mm, shallow focus, vertical 9:16, photorealistic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_2",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Extreme close-up of the same hand capping the black fountain pen, the cap halfway on, the unsigned line soft below, cold light, vertical 9:16, photorealistic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_3",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Medium shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture standing at a long black desk in a black-glass CEO office at night, the skyline behind him, sliding a loose page into a white spiral-bound deck, his dark-canvas messenger bag open on the desk, his face set, not relieved, cold blue light, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_4",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Wide shot of a red-brick wall at night with a small vintage marquee of chasing warm bulbs reading SECOND ACT IMPROV, a propped black door glowing amber, a few silhouetted people filing in, wet sidewalk reflecting the bulbs, vertical 9:16, cinematic. (Reference: the exterior plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_5",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Insert at a small wooden host stand: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hand with a gold ring holding her phone (mustard-yellow case, green screen) over a QR scanner, A woman in her 20s with a headset and a clipboard, natural skin texture, clipboard and headset cord soft at the frame edge, show posters on black walls behind, warm tungsten light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_6",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Medium shot of a warm-up circle on a bare black-box stage: the five Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture members and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture mid-clap and mid-point, laughing, and A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the middle one beat behind, hands up in the wrong direction, folding chairs and brick behind, warm spotlight and amber house light, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_7",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in a folding chair at the edge of the circle, watching Hunter off screen-left with a private, pleased smile, one Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture member leaning into frame from the right in soft profile, close to her ear, amber house light, brick soft behind, 50mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_8",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Wide shot from the back of the house: A lanky man in his 30s in a black tee, loose jeans, big expansive gestures, big voice, natural skin texture center stage in the spotlight, arms flung wide, the team and A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in the front row of folding chairs as silhouettes, brick wall behind, haze in the beam, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_9",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Medium shot of the Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture members' hands shoving A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture up out of their folding chairs toward the stage, everyone laughing, Hunter's arms out for balance, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_10",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "Wide shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture alone on a bare stage in one hard warm spotlight, two meters apart, the house black around them, Hunter's shadow thrown huge up the red-brick back wall behind them, vertical 9:16, cinematic. (Reference: the stage plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_11",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in the spotlight, playing a first date big and flirty: chin on her hand, batting her eyelashes, a wicked grin, the black house behind her, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_12",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the spotlight, half a smile starting and failing, eyes on her and then down, the shadow on the brick soft behind him, his left hand rising toward the steel watch at the bottom of frame, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_13",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Wide shot from the stage looking out at the crowd in folding chairs, the five Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture members in the front row, faces lit warm by stage spill, mid-laugh, one slapping a knee, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_14",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in the spotlight, still smiling for the crowd, but her eyes are fixed on his face, searching, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_15",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, the spotlight hard from above, the joke gone from his face, looking straight at her, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_16",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture in the spotlight, not laughing, lips parted, looking at him as if she's just seen him for the first time, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_17",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Medium shot: A lanky man in his 30s in a black tee, loose jeans, big expansive gestures, big voice, natural skin texture striding into the spotlight between A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, one arm swept high, the house lights coming up warm, the two of them blinking, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_18",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Medium shot at a crowded bar table under Edison bulbs: one Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture member standing, raising a clear plastic cup of beer toward A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, who is hiding her face in her cardigan sleeve, laughing, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_19",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture standing, hanging his dark-canvas messenger bag over the back of a wooden bar chair, smiling, loose for the first time, warm Edison light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_20",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Medium shot, low near the floor: the wooden chair with the messenger bag hanging on it, a passing stranger's hip about to clip it, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_21",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Medium close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture kneeling on the bar floor among chair legs, reaching for the white deck, still smiling from the toast, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_22",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Insert: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hands holding a white spiral-bound deck, the cover blank for compositing, gold ring visible, warm floor-level light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_23",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Insert: the same hands, the deck now open, a page mid-flip, the inner page blank for compositing, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_24",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 24",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture kneeling, looking down at the page, completely still, the warm bar a blur of light behind her, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_25",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 25",
+  "prompt": "Wide shot: A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture walking back through the crowded bar, still smiling, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture kneeling in the foreground with the open deck, the team oblivious at the table, warm light, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e08_key_shot_26",
+  "ep": 8,
+  "kind": "key",
+  "name": "shot 26",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture looking up from the floor at him, the deck held against her chest, her face open and hurt, warm light gone flat around her, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_sheet_pottery_instructor",
+  "ep": 9,
+  "kind": "sheet",
+  "name": "POTTERY INSTRUCTOR",
+  "prompt": "Character reference sheet, A calm woman in her 50s, clay-streaked apron, gray braid, kind eyes, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e09_plate_bar_next_door",
+  "ep": 9,
+  "kind": "plate",
+  "name": "Bar next door",
+  "prompt": "The same small loud neighborhood bar from Episode 8, dark wood, Edison bulbs, plastic cups on a crowded table, a wooden chair pushed back, a white deck lying on the table, warm low light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_plate_4th_floor_open_plan",
+  "ep": 9,
+  "kind": "plate",
+  "name": "4th floor open plan",
+  "prompt": "Open-plan tech office, rows of white desks, dual monitors, fluorescent lighting, cool steel-blue palette, one desk with a mustard-yellow mug and a postcard of Lisbon, the chair pushed in, the monitor dark, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_plate_pilsen_apartment",
+  "ep": 9,
+  "kind": "plate",
+  "name": "Pilsen apartment",
+  "prompt": "Cozy Pilsen two-flat living room at night, warm string lights, a worn velvet couch with a crocheted blanket, papel picado over a doorway, a kitchen behind with an old white fridge covered in ticket stubs, photos and printed vouchers under magnets, warm evening light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_plate_ceo_office_night",
+  "ep": 9,
+  "kind": "plate",
+  "name": "CEO office, night",
+  "prompt": "Corner CEO office on a high floor, floor-to-ceiling black glass, a long black desk with a single lamp, an untouched takeout container and a white deck on it, an office chair with an olive overshirt over the back, Chicago skyline at night behind, cold blue-white light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_plate_kiln_co_studio",
+  "ep": 9,
+  "kind": "plate",
+  "name": "Kiln & Co. studio",
+  "prompt": "Small pottery studio in an old Logan Square storefront, wooden shelves of drying gray pots, two potter's wheels side by side with stools, low golden evening sun slanting through dusty front windows with rain streaking the glass, clay dust floating in the sunbeams, a bell over the door, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_1",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture kneeling on the bar floor, the white deck against her chest, looking up at him, face open and hurt, the warm bar lights flattened and desaturated behind her, vertical 9:16. (Match the last frame of Episode 8 exactly.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_2",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, clean-shaven, standing over her, one hand half-raised, palms out, panicked, warm bar blurred and gone gray behind him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_3",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture standing now, the open deck held up between them at the edge of frame, her jaw tight, eyes steady on him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_4",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 4",
+  "prompt": "Tighter close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, flat, every bit of warmth gone from her face, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_5",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Medium shot across the crowded bar table: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture dropping the white deck onto the table among the plastic cups and pulling on a long camel wool coat, the five Five designers in their 20s and 30s in casual creative-office clothes: a tall Black man with a shaved head and a green corduroy shirt; a petite East Asian woman with a blunt bob and round tortoiseshell glasses; a red-haired white man with a beard and a gray hoodie; a Latina woman with curly hair in a scrunchie and a denim jacket; a South Asian man with headphones around his neck and a striped tee. Natural skin texture members frozen in their seats behind, cups in hand, warm light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_6",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Wide symmetrical shot of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, empty desk in the open-plan office, chair pushed in, the mustard-yellow mug and the Lisbon postcard exactly where she left them, monitor dark, cool steel-blue fluorescent light, vertical 9:16, cinematic. (Reference: the 4th-floor plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_7",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Medium close-up of A woman in her late 20s, sharp black bob, navy hospital scrubs under an oversized denim jacket, skeptical half-smile, small silver studs, natural skin texture on a worn velvet couch in scrubs and her denim jacket, one arm around A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, who is curled into her shoulder under a crocheted blanket, mustard scarf loose, string lights soft behind, warm evening light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_8",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Insert of an old white fridge door covered in magnets: the axe-throwing photo of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture laughing, a tamale class stub, a float receipt, a kayak wristband, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hand with a gold ring reaching for the photo, warm kitchen light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_9",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Medium shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture with a day of dark stubble, in a creased white tee, slumped at his long black desk, the olive overshirt on the back of his chair, an untouched takeout container beside the white deck, A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture in the doorway behind him with her tablet, cold blue light, black glass and city behind, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_10",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "Medium close-up of A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture in the doorway, tablet against her chest, arms tight, done, cold light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_11",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Insert of a phone face up on the black desk, screen green for compositing, the steel watch on the wrist resting beside it, cold light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_12",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture with stubble, already rising, grabbing the olive overshirt off the back of his chair, motion blur on the sleeve, cold light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_13",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Wide shot of a small pottery studio in golden evening sun, clay dust floating in the sunbeams, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture alone at one potter's wheel in a clay-streaked apron over her cardigan, beanie on, the second wheel beside her empty with its stool pushed in, rain streaking the front windows, vertical 9:16, cinematic. (Reference: the Kiln & Co. plate.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_14",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Medium close-up of A calm woman in her 50s, clay-streaked apron, gray braid, kind eyes, natural skin texture leaning on the shelf behind Abby's wheel, wiping her hands on her apron, glancing at the empty wheel, warm sunbeam across her face, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_15",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Extreme close-up of a spinning cylinder of wet gray clay between A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, clay-covered hands, gold ring dulled with slip, warm side light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_16",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "Wide shot from behind the wheels toward the front door: A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the doorway, a day of stubble, his olive overshirt soaked dark with rain, hair flattened, the bell still swinging above him, rain and low sun behind him, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_17",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Medium shot of the two wheels: A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, soaked, lowering himself onto the empty stool beside A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, who stares at her collapsed clay; A calm woman in her 50s, clay-streaked apron, gray braid, kind eyes, natural skin texture standing behind them, eyebrows up, warm sunbeams, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_18",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the wheel, a day of stubble, wet hair, looking straight at her, hands still and flat on his knees, warm sun on one side of his face, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_19",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, eyes wet but hard, looking right at him, warm sun, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_20",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Medium close-up two-shot across the two wheels, both in three-quarter profile facing each other: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture left, mid-sentence, A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture right, cutting in, warm sun between them, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_21",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, wet hair, a tired half-smile starting, warm sun, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_22",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture laughing despite herself, wiping her eyes with the back of a clay-covered hand, leaving a gray smear on her cheek, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_23",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Extreme close-up of four hands on one spinning lump of wet clay, his with the steel watch, hers with the gold ring, slip everywhere, warm side light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_24",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 24",
+  "prompt": "Medium shot of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture and A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture side by side at the wheel, both clay-smeared, staring down at one lopsided wet gray bowl, golden sun and dust around them, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_25",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 25",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, serious again, the clay smear still on her cheek, looking at him, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e09_key_shot_26",
+  "ep": 9,
+  "kind": "key",
+  "name": "shot 26",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, chin up, eyes dry now, a dare in them, golden sun on her face, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_sheet_vendor",
+  "ep": 10,
+  "kind": "sheet",
+  "name": "VENDOR",
+  "prompt": "Character reference sheet, A cheerful man in his 50s behind a vintage clothing rack, cash apron, natural skin texture, front view, three-quarter view, profile, full body, plus three expressions, plain light-gray background, even studio light, photorealistic, no text, no name labels, no captions.",
+  "w": 1536,
+  "h": 1024
+ },
+ {
+  "id": "e10_plate_kiln_co_studio",
+  "ep": 10,
+  "kind": "plate",
+  "name": "Kiln & Co. studio",
+  "prompt": "Small pottery studio, wooden shelves of drying gray pots, two potter's wheels with wet clay, a window throwing slanted sunbeams through floating clay dust, warm late-afternoon light, earthy browns, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_plate_4th_floor_all_hands",
+  "ep": 10,
+  "kind": "plate",
+  "name": "4th floor, all-hands",
+  "prompt": "The Episode 1 open-plan office plate, rows of white desks with dual monitors, a large wall-mounted screen at the far end showing a flat green (#00FF00) video-call grid for compositing, Abby's desk with a mustard-yellow mug and a Lisbon postcard, the bare borrowed desk beside it with a closed laptop, cool steel-blue fluorescent light, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_plate_maxwell_street_market",
+  "ep": 10,
+  "kind": "plate",
+  "name": "Maxwell Street market",
+  "prompt": "Busy outdoor Chicago flea market on a bright Sunday morning, rows of vintage clothing racks and folding tables, grill smoke drifting through low golden sun, string of pennant flags, a small brass band stage in the background, warm saturated palette, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_plate_tamale_cart",
+  "ep": 10,
+  "kind": "plate",
+  "name": "Tamale cart",
+  "prompt": "A small steel tamale cart under a faded umbrella at the edge of the market, a steaming pot with the lid half off, corn husks in a tub, warm morning backlight catching the steam, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_plate_market_curb",
+  "ep": 10,
+  "kind": "plate",
+  "name": "Market curb",
+  "prompt": "A low concrete curb at the quiet edge of the market, cracked sidewalk, a parked bike, the busy market soft and bright behind, warm sun, vertical 9:16, cinematic",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_1",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 1",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture at a potter's wheel, wet gray clay on her hands and forearms, beanie pushed back, looking up just off camera with a dare in her eyes, slanted sunbeams and clay dust behind her, warm light, 85mm, shallow depth of field, vertical 9:16, photorealistic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_2",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 2",
+  "prompt": "Wide, perfectly symmetrical shot down the center aisle of the open-plan office, the big wall screen at the far end showing the all-hands grid (green screen), every coworker turned toward it, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture at her desk in the near left with her mustard mug, the borrowed desk beside her empty, cool steel-blue fluorescent light, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_3",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 3",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture at her desk, mug in both hands, eyes sliding screen-right toward the empty borrowed desk, the light leaving her face, cool fluorescent light, background desks soft, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_5",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 5",
+  "prompt": "Wide shot from behind the rows of desks, coworkers half-turned in their chairs, looking from the wall screen back toward the borrowed desk, where A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture sits upright behind his open laptop, olive overshirt, watch on, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture frozen at the next desk, cool fluorescent light, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_6",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 6",
+  "prompt": "Two webcam frames for the grid: A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture in a black-glass office high above the city, jaw tight, arms folded; A South Asian woman in her mid-30s, sleek low bun, fitted black blazer over a white blouse, holding a tablet, sharp and efficient, natural skin texture in a small meeting room, tablet in hand, biting her lip to keep from smiling, flat webcam light, vertical crops for compositing.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_7",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 7",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the borrowed desk, framed straight on as if from his laptop camera, olive overshirt, hands flat on the desk, swallowing, no watch twist: his hands stay still, cool laptop light on his face, office soft behind, 50mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_8",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 8",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, laptop light on one side of his face, eyes steady on the lens, cool steel-blue background, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_9",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 9",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture at the borrowed desk, sitting up straight, the room soft and full behind him, cool fluorescent light, 50mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_10",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 10",
+  "prompt": "A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture in webcam framing, black-glass office behind, leaning toward the lens with a cold, polite smile, flat webcam light, vertical crop for compositing.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_11",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 11",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, laptop light on his face, calm, not looking away, cool background, 50mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_12",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 12",
+  "prompt": "Four separate inserts: four coworkers' hands holding phones (green screens) at four different desks, each with something personal in frame: a lunch salad, a stress ball, a train pass, a kid's drawing, cool fluorescent light, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_13",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 13",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture across the room, standing by her desk amid clapping coworkers, eyes wet, smiling at someone off camera, cool light with a glint in her eyes, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_14",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 14",
+  "prompt": "Extreme close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, left wrist over the open gray-steel desk drawer, fingers on the steel watch buckle, olive overshirt cuff, cool light, 100mm macro, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_15",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 15",
+  "prompt": "Wide shot of the Maxwell Street flea market packed with people, grill smoke rolling through low golden sun, vintage racks in the foreground, a brass band playing on a small stage in the background, warm saturated palette, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_16",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 16",
+  "prompt": "the Episode 1 phone plate, POV angle (green screen), in Abby's hand, market crowd and sun-flared racks soft below.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_17",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 17",
+  "prompt": "Medium shot between two vintage racks, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture holding a rust-orange crewneck sweater up against A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture, chest, sizing him up with a grin, Hunter in the olive overshirt with a bare left wrist, looking down at the sweater doubtfully, warm golden morning light, vendors and crowd soft behind, 50mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_18",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 18",
+  "prompt": "Insert over a folding table of folded vintage knits: A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture, hand with a gold ring handing folded bills to A cheerful man in his 50s behind a vintage clothing rack, cash apron, natural skin texture, hand above his cash apron pocket, warm sun on the table, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_19",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 19",
+  "prompt": "Medium close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture pulling the rust sweater down over his white tee, hair mussed from the collar, the olive overshirt draped over one arm, bare left wrist, warm golden light, market soft behind, 50mm, vertical 9:16.* (From here on, Hunter is in the rust sweater.)",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_20",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 20",
+  "prompt": "Medium shot over the tamale cart, A Mexican woman in her 60s, gray hair in a low bun, embroidered apron over a floral blouse, flour on her hands, warm and bossy, natural skin texture in her embroidered apron lifting two husk-wrapped tamales out of a steaming pot, looking at A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the rust sweater with fond disapproval, A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture beside him, steam glowing in the warm backlight, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_21",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 21",
+  "prompt": "Medium side-on two-shot of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture and A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture sitting close on a low curb, tamales on paper plates on their knees, Hunter in the rust sweater with a bare wrist, the bright market soft behind, warm sun, 50mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_22",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 22",
+  "prompt": "Close-up of A Mexican-American woman in her late 20s, long dark wavy hair half-up in a tortoiseshell claw clip, large gold hoop earrings, warm expressive face with an easy grin, mustard-yellow knit beanie, thrifted oversized cardigan in warm tones, natural skin texture on the curb, turned toward him, sun in her hoops, an open, easy smile, warm light, market blurred behind, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_23",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 23",
+  "prompt": "Close-up of A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture in the rust sweater, bare left wrist resting on his knee in frame, thinking, then smiling, warm sun, market blurred behind, 85mm, vertical 9:16.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e10_key_shot_24",
+  "ep": 10,
+  "kind": "key",
+  "name": "shot 24",
+  "prompt": "High angle looking down at the two of them on the curb, his rust sweater and her mustard beanie the brightest colors in frame, the busy market crowd and grill smoke around them, warm golden light, vertical 9:16, cinematic.",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e01_2",
+  "ep": 1,
+  "kind": "key",
+  "name": "v2 cut 2",
+  "scene": "Boardroom",
+  "prompt": "Hunter (A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture) at the head of an empty black boardroom table, cold dusk light, twisting his steel watch, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e01_3",
+  "ep": 1,
+  "kind": "key",
+  "name": "v2 cut 3",
+  "scene": "Boardroom",
+  "prompt": "tablet on black lacquer reading RESTRUCTURE WAVE 1 4TH FLOOR PRODUCT DESIGN, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e01_12",
+  "ep": 1,
+  "kind": "key",
+  "name": "v2 cut 12",
+  "scene": "4th floor",
+  "prompt": "computer monitor showing a calendar invite reading Promotion review Fri 9:00, mustard mug beside it, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e01_20",
+  "ep": 1,
+  "kind": "key",
+  "name": "v2 cut 20",
+  "scene": "4th floor, late",
+  "prompt": "open dark canvas messenger bag on an office desk at golden hour, a tablet inside showing WAVE 1 4TH FLOOR, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e02_5a",
+  "ep": 2,
+  "kind": "key",
+  "name": "v2 cut 5a",
+  "scene": "22nd floor, elevator bank",
+  "prompt": "Grant (A man in his mid-30s, slicked-back hair, sharp charcoal suit with no tie, polished and cold, a smile that doesn't reach his eyes, natural skin texture) leaning against a brushed-steel elevator doorframe on a glass executive floor, charcoal suit, paper coffee cup, thin smile, cool hard light, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e02_6",
+  "ep": 2,
+  "kind": "key",
+  "name": "v2 cut 6",
+  "scene": "4th floor, Friday morning",
+  "prompt": "computer monitor showing a calendar invite reading Promotion review POSTPONED Office of the COO, mustard mug beside it, fluorescent light, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e03_17",
+  "ep": 3,
+  "kind": "key",
+  "name": "v2 cut 17",
+  "scene": "Steamer",
+  "prompt": "dark canvas messenger bag on a wooden stool in a cobalt-tiled tamale kitchen, flour-dusted, a tablet corner showing WAVE 1 4TH FLOOR, warm steam light, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e04_1",
+  "ep": 4,
+  "kind": "key",
+  "name": "v2 cut 1",
+  "scene": "Supply closet (flash-forward)",
+  "prompt": "Hunter (A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture) in a navy quarter-zip wedged into a cramped office supply closet between mop buckets and paper-towel shelves, laptop on an upturned bucket, earbuds, blue screen glow, one bare bulb, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e04_7",
+  "ep": 4,
+  "kind": "key",
+  "name": "v2 cut 7",
+  "scene": "Supply closet",
+  "prompt": "close-up of Hunter (A man in his early 30s, tall and lean with slightly hunched shoulders, short dark hair in a neat side part, clean-shaven, tired but kind eyes, plain steel wristwatch on his left wrist, navy quarter-zip over a white tee, no logos, understated, natural skin texture) in a dark supply closet, earbuds in, face lit blue by a laptop, a mop handle resting against his shoulder, one bare bulb behind, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e04_24",
+  "ep": 4,
+  "kind": "key",
+  "name": "v2 cut 24",
+  "scene": "22nd floor",
+  "prompt": "tablet on black lacquer showing a login panel reading CEO SESSION ORIGIN FLOOR 4 SUPPLY B, a man's cufflinked hand beside it, cold light, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e06_10",
+  "ep": 6,
+  "kind": "key",
+  "name": "v2 cut 10",
+  "scene": "Dock, golden hour",
+  "prompt": "a man's hand in an olive overshirt cuff holding a phone (green screen) above a weathered wooden dock, golden lake water behind, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e08_8",
+  "ep": 8,
+  "kind": "key",
+  "name": "v2 cut 8",
+  "scene": "Theater",
+  "prompt": "phone in a lap in a dark theater, mustard-yellow case, notification reading Promotion review POSTPONED pending efficiency review, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e09_12",
+  "ep": 9,
+  "kind": "key",
+  "name": "v2 cut 12",
+  "scene": "Studio",
+  "prompt": "a creased yellow sticky note on a clay-spattered potter's wheel tray, handwritten float ✓ kayaks ✓ pottery, a man's wet fingers just leaving it, warm side light, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e09_16",
+  "ep": 9,
+  "kind": "key",
+  "name": "v2 cut 16",
+  "scene": "Studio",
+  "prompt": "ECU of a man's hand unbuckling a plain steel watch and setting it face down on a clay-spattered pottery shelf, warm side light, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e09_22",
+  "ep": 9,
+  "kind": "key",
+  "name": "v2 cut 22",
+  "scene": "Studio",
+  "prompt": "phone face up on a clay-spattered potter's wheel tray beside a yellow sticky note, screen glowing with a text message, warm light, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e07_10",
+  "ep": 7,
+  "kind": "key",
+  "name": "v2 cut 10",
+  "scene": "Boardroom",
+  "prompt": "tablet on black lacquer highlighting REYES, ABBY Product Designer on a list, a glossy photo print beside it of a couple laughing on a lake dock at sunset, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "v2_e10_11",
+  "ep": 10,
+  "kind": "key",
+  "name": "v2 cut 11",
+  "scene": "4th floor",
+  "prompt": "computer monitor showing an email reading Promotion review APPROVED Senior Product Designer, Reviewer D. Ortiz Head of Design, H. Cole recused, mustard mug beside it, vertical 9:16, cinematic, photorealistic, natural light",
+  "w": 1024,
+  "h": 1792
+ },
+ {
+  "id": "e00_title_bg",
+  "ep": 0,
+  "kind": "plate",
+  "name": "title background",
+  "prompt": "Vertical 9:16 cinematic background for a romantic drama title card, no text, no letters, no logos. Top half: a cold steel-blue glass office tower at dusk with lit windows. Bottom half dissolves into warm amber Chicago street life at night, string lights, blurred passersby, the elevated L train streaking past. A dark soft gradient band across the middle for a title. Film grain, shallow depth of field.",
+  "w": 1024,
+  "h": 1792
+ }
+]
